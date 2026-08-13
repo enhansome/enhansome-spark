@@ -1,0 +1,774 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Packages"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": ".NET for Apache Spark",
+          "description": ".NET bindings.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-31T04:42:13Z",
+            "owner": "dotnet",
+            "repo": "spark",
+            "stars": 2098
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sparklyr",
+          "description": "An alternative R backend, using .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-07-02T02:14:54Z",
+            "owner": "sparklyr",
+            "repo": "sparklyr",
+            "stars": 972
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kotlin for Apache Spark",
+          "description": "Kotlin API bindings and extensions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-06-18T09:44:23Z",
+            "owner": "Kotlin",
+            "repo": "kotlin-spark-api",
+            "stars": 481
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sparkle",
+          "description": "Haskell on Apache Spark.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2025-07-30T21:18:05Z",
+            "owner": "tweag",
+            "repo": "sparkle",
+            "stars": 449
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "spark-connect-go",
+          "description": "Golang bindings.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-05-15T22:56:02Z",
+            "owner": "apache",
+            "repo": "spark-connect-go",
+            "stars": 251
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "spark-connect-rs",
+          "description": "Rust bindings.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-06-10T13:09:52Z",
+            "owner": "sjrusso8",
+            "repo": "spark-connect-rs",
+            "stars": 116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "spark-connect-csharp",
+          "description": "C# bindings.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-04-23T12:15:29Z",
+            "owner": "mdrakiburrahman",
+            "repo": "spark-connect-csharp",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Language Bindings"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "spark-daria",
+          "description": "A Scala library with essential Spark functions and extensions to make you more productive.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-06-22T13:05:57Z",
+            "owner": "mrpowers-io",
+            "repo": "spark-daria",
+            "stars": 767
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "quinn",
+          "description": "A native PySpark implementation of spark-daria.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-09T08:47:03Z",
+            "owner": "mrpowers-io",
+            "repo": "quinn",
+            "stars": 687
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Joblib Apache Spark Backend",
+          "description": "backend for running tasks on Spark clusters.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-24T18:31:10Z",
+            "owner": "joblib",
+            "repo": "joblib-spark",
+            "stars": 249
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Apache DataFu",
+          "description": "A library of general purpose functions and UDF's.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-09T08:49:59Z",
+            "owner": "apache",
+            "repo": "datafu",
+            "stars": 124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "itachi",
+          "description": "A library that brings useful functions from modern database management systems to Apache Spark.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2023-09-04T12:20:14Z",
+            "owner": "yaooqinn",
+            "repo": "itachi",
+            "stars": 63
+          }
+        }
+      ],
+      "title": "General Purpose Libraries"
+    },
+    {
+      "description": "SparkSQL has serveral built-in Data Sources for files. These include , , , , and . It also supports JDBC databases as well as Apache Hive. Additional data sources can be added by including the packages listed below, or writing your own.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Spark Cassandra Connector",
+          "description": "Cassandra support including data source and API and support for arbitrary queries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2025-04-29T09:28:59Z",
+            "owner": "apache",
+            "repo": "cassandra-spark-connector",
+            "stars": 1951
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mongo-Spark",
+          "description": "Official MongoDB connector.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-20T16:52:11Z",
+            "owner": "mongodb",
+            "repo": "mongo-spark",
+            "stars": 730
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spark XML",
+          "description": "XML parser and writer.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Scala",
+            "last_commit": "2024-08-11T22:56:29Z",
+            "owner": "databricks",
+            "repo": "spark-xml",
+            "stars": 513
+          }
+        }
+      ],
+      "title": "SQL Data Sources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Apache Iceberg",
+          "description": "Upserts, Deletes And Incremental Processing on Big Data..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T03:44:19Z",
+            "owner": "apache",
+            "repo": "iceberg",
+            "stars": 9134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Delta Lake",
+          "description": "Storage layer with ACID transactions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-08-13T04:02:45Z",
+            "owner": "delta-io",
+            "repo": "delta",
+            "stars": 8934
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Apache Hudi",
+          "description": "Upserts, Deletes And Incremental Processing on Big Data..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T03:22:11Z",
+            "owner": "apache",
+            "repo": "hudi",
+            "stars": 6212
+          }
+        }
+      ],
+      "title": "Storage"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Hail",
+          "description": "Genetic analysis framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T23:04:26Z",
+            "owner": "hail-is",
+            "repo": "hail",
+            "stars": 1069
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ADAM",
+          "description": "Set of tools designed to analyse genomics data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-03-17T20:10:53Z",
+            "owner": "bigdatagenomics",
+            "repo": "adam",
+            "stars": 1056
+          }
+        }
+      ],
+      "title": "Bioinformatics"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GraphFrames",
+          "description": "Data frame based graph API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-08-12T08:21:56Z",
+            "owner": "graphframes",
+            "repo": "graphframes",
+            "stars": 1200
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "neo4j-spark-connector",
+          "description": "Bolt protocol based, Neo4j Connector with RDD, DataFrame and GraphX / GraphFrames support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-08-11T15:12:28Z",
+            "owner": "neo4j",
+            "repo": "neo4j-spark-connector",
+            "stars": 324
+          }
+        }
+      ],
+      "title": "Graph Processing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ModelDB",
+          "description": "A system to manage machine learning models for and .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T03:47:24Z",
+            "owner": "scikit-learn",
+            "repo": "scikit-learn",
+            "stars": 66968
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BigDL",
+          "description": "Distributed Deep Learning library.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2026-01-28T17:32:40Z",
+            "owner": "intel",
+            "repo": "ipex-llm",
+            "stars": 8864
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Microsoft ML for Apache Spark",
+          "description": "A distributed ml library with support for LightGBM, Vowpal Wabbit, OpenCV, Deep Learning, Cognitive Services, and Model Deployment.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-08-13T04:09:38Z",
+            "owner": "microsoft",
+            "repo": "SynapseML",
+            "stars": 5236
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MLeap",
+          "description": "Execution engine and serialization format which supports deployment of models without dependency on .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-07-21T17:38:04Z",
+            "owner": "combust",
+            "repo": "mleap",
+            "stars": 1540
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sparkling Water",
+          "description": "H2O interoperability layer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2025-11-05T03:56:25Z",
+            "owner": "h2oai",
+            "repo": "sparkling-water",
+            "stars": 979
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JPMML-Spark",
+          "description": "PMML transformer library for Spark ML.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-02-08T08:19:27Z",
+            "owner": "jpmml",
+            "repo": "jpmml-evaluator-spark",
+            "stars": 99
+          }
+        }
+      ],
+      "title": "Machine Learning Extension"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "spark-jobserver",
+          "description": "Simple Spark as a Service which supports objects sharing using so called named objects. JVM only.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-03-03T12:09:21Z",
+            "owner": "spark-jobserver",
+            "repo": "spark-jobserver",
+            "stars": 2836
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Apache Kyuubi",
+          "description": "A distributed multi-tenant JDBC server for large-scale data processing and analytics, built on top of Apache Spark.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-08-12T15:15:24Z",
+            "owner": "apache",
+            "repo": "kyuubi",
+            "stars": 2359
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Livy",
+          "description": "REST server with extensive language support (Python, R, Scala), ability to maintain interactive sessions and object sharing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-08-06T01:38:26Z",
+            "owner": "apache",
+            "repo": "livy",
+            "stars": 958
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Apache Toree",
+          "description": "IPython protocol based middleware for interactive applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-08-07T21:43:06Z",
+            "owner": "apache",
+            "repo": "incubator-toree",
+            "stars": 750
+          }
+        }
+      ],
+      "title": "Middleware"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Optimus",
+          "description": "Data Cleansing and Exploration utilities with the goal of simplifying data cleaning.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-02T14:09:25Z",
+            "owner": "hi-primus",
+            "repo": "optimus",
+            "stars": 1537
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flintrock",
+          "description": "A command-line tool for launching Spark clusters on EC2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-13T22:54:21Z",
+            "owner": "nchammas",
+            "repo": "flintrock",
+            "stars": 650
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sparkly",
+          "description": "Helpers & syntactic sugar for PySpark.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-04T16:25:09Z",
+            "owner": "tubular",
+            "repo": "sparkly",
+            "stars": 62
+          }
+        }
+      ],
+      "title": "Utilities"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "deequ",
+          "description": "Deequ is a library built on top of Apache Spark for defining \"unit tests for data\", which measure data quality in large datasets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-07-21T17:55:47Z",
+            "owner": "awslabs",
+            "repo": "deequ",
+            "stars": 3638
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "python-deequ",
+          "description": "Python API for Deequ.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-07-21T17:56:04Z",
+            "owner": "awslabs",
+            "repo": "python-deequ",
+            "stars": 826
+          }
+        }
+      ],
+      "title": "Data quality"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "spark-testing-base",
+          "description": "Collection of base test classes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-08-07T22:41:59Z",
+            "owner": "holdenk",
+            "repo": "spark-testing-base",
+            "stars": 1555
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chispa",
+          "description": "PySpark test helpers with beautiful error messages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T11:30:15Z",
+            "owner": "MrPowers",
+            "repo": "chispa",
+            "stars": 774
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "spark-fast-tests",
+          "description": "A lightweight and fast testing framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-04-02T01:42:37Z",
+            "owner": "mrpowers-io",
+            "repo": "spark-fast-tests",
+            "stars": 457
+          }
+        }
+      ],
+      "title": "Testing"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Resources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Advanced Analytics with Spark",
+          "description": "Useful collection of Spark processing patterns. Accompanying GitHub repository: sryza/aas.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2024-09-25T14:40:05Z",
+            "owner": "sryza",
+            "repo": "aas",
+            "stars": 1525
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spark in Action",
+          "description": "New book in the Manning's \"in action\" family with +400 pages. Starts gently, step-by-step and covers large number of topics. Free excerpt on how to setup Eclipse for Spark application development and how to bootstrap a new application using the provided Maven Archetype. You can find the accompanying GitHub repo here.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2017-07-01T14:35:42Z",
+            "owner": "spark-in-action",
+            "repo": "first-edition",
+            "stars": 270
+          }
+        }
+      ],
+      "title": "Books"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Oryx 2",
+          "description": "Lambda architecture platform built on Apache Spark and Apache Kafka with specialization for real-time large scale machine learning.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2021-08-16T11:16:27Z",
+            "owner": "OryxProject",
+            "repo": "oryx",
+            "stars": 1783
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Photon ML",
+          "description": "A machine learning library supporting classical Generalized Mixed Model and Generalized Additive Mixed Effect Model.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Terra",
+            "last_commit": "2021-08-30T17:36:25Z",
+            "owner": "linkedin",
+            "repo": "photon-ml",
+            "stars": 797
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Crossdata",
+          "description": "Data integration platform with extended DataSource API and multi-user environment.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Scala",
+            "last_commit": "2019-11-20T08:28:20Z",
+            "owner": "Stratio",
+            "repo": "crossdata",
+            "stars": 169
+          }
+        }
+      ],
+      "title": "Projects Using Spark"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "jupyter/docker-stacks/pyspark-notebook",
+          "description": "PySpark with Jupyter Notebook and Mesos client.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T18:56:43Z",
+            "owner": "jupyter",
+            "repo": "docker-stacks",
+            "stars": 8452
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sequenceiq/docker-spark",
+          "description": "Yarn images from SequenceIQ.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2021-03-11T10:00:45Z",
+            "owner": "sequenceiq",
+            "repo": "docker-spark",
+            "stars": 757
+          }
+        }
+      ],
+      "title": "Docker Images"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "References"
+    },
+    {
+      "description": "Apache Spark, Spark, Apache, and the Spark logo are trademarks of The Apache Software Foundation. This compilation is not endorsed by The Apache Software Foundation.\nInspired by sindresorhus/awesome.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:19:34.607Z",
+    "original_repository": "awesome-spark/awesome-spark",
+    "original_repository_sha": "829b48e14fd4b0b01167a651a4b5791ac9fac8ed",
+    "enhanced_repository": "enhansome/enhansome-spark",
+    "enhanced_repository_description": null,
+    "title": "Awesome Spark with stars"
+  }
+}
