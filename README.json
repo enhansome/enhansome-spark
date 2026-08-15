@@ -244,10 +244,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-14T14:24:43Z",
+            "last_commit": "2026-08-15T05:39:25Z",
             "owner": "apache",
             "repo": "iceberg",
-            "stars": 9137
+            "stars": 9138
           }
         },
         {
@@ -258,10 +258,10 @@
           "repo_info": {
             "archived": false,
             "language": "Scala",
-            "last_commit": "2026-08-14T08:40:00Z",
+            "last_commit": "2026-08-15T05:16:55Z",
             "owner": "delta-io",
             "repo": "delta",
-            "stars": 8938
+            "stars": 8939
           }
         },
         {
@@ -292,7 +292,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T15:30:00Z",
+            "last_commit": "2026-08-14T19:32:27Z",
             "owner": "hail-is",
             "repo": "hail",
             "stars": 1069
@@ -363,7 +363,7 @@
             "last_commit": "2026-08-13T22:04:45Z",
             "owner": "scikit-learn",
             "repo": "scikit-learn",
-            "stars": 66979
+            "stars": 66956
           }
         },
         {
@@ -388,7 +388,7 @@
           "repo_info": {
             "archived": false,
             "language": "Scala",
-            "last_commit": "2026-08-14T07:34:04Z",
+            "last_commit": "2026-08-15T13:08:31Z",
             "owner": "microsoft",
             "repo": "SynapseML",
             "stars": 5236
@@ -405,7 +405,7 @@
             "last_commit": "2026-07-21T17:38:04Z",
             "owner": "combust",
             "repo": "mleap",
-            "stars": 1540
+            "stars": 1541
           }
         },
         {
@@ -492,7 +492,7 @@
           "repo_info": {
             "archived": false,
             "language": "Scala",
-            "last_commit": "2026-08-07T21:43:06Z",
+            "last_commit": "2026-08-14T21:43:30Z",
             "owner": "apache",
             "repo": "incubator-toree",
             "stars": 750
@@ -764,7 +764,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T16:29:51.622Z",
+    "last_updated": "2026-08-15T15:55:16.850Z",
     "original_repository": "awesome-spark/awesome-spark",
     "original_repository_sha": "829b48e14fd4b0b01167a651a4b5791ac9fac8ed",
     "enhanced_repository": "enhansome/enhansome-spark",
