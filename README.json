@@ -199,7 +199,7 @@
             "last_commit": "2025-04-29T09:28:59Z",
             "owner": "apache",
             "repo": "cassandra-spark-connector",
-            "stars": 1951
+            "stars": 1952
           }
         },
         {
@@ -244,10 +244,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-15T05:39:25Z",
+            "last_commit": "2026-08-16T14:50:50Z",
             "owner": "apache",
             "repo": "iceberg",
-            "stars": 9138
+            "stars": 9139
           }
         },
         {
@@ -309,7 +309,7 @@
             "last_commit": "2026-03-17T20:10:53Z",
             "owner": "bigdatagenomics",
             "repo": "adam",
-            "stars": 1056
+            "stars": 1057
           }
         }
       ],
@@ -360,10 +360,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T22:04:45Z",
+            "last_commit": "2026-08-16T05:03:27Z",
             "owner": "scikit-learn",
             "repo": "scikit-learn",
-            "stars": 66956
+            "stars": 66960
           }
         },
         {
@@ -388,10 +388,10 @@
           "repo_info": {
             "archived": false,
             "language": "Scala",
-            "last_commit": "2026-08-15T13:08:31Z",
+            "last_commit": "2026-08-16T08:20:56Z",
             "owner": "microsoft",
             "repo": "SynapseML",
-            "stars": 5236
+            "stars": 5237
           }
         },
         {
@@ -611,7 +611,7 @@
             "last_commit": "2026-08-09T11:30:15Z",
             "owner": "MrPowers",
             "repo": "chispa",
-            "stars": 774
+            "stars": 773
           }
         },
         {
@@ -732,7 +732,7 @@
             "last_commit": "2026-08-09T18:56:43Z",
             "owner": "jupyter",
             "repo": "docker-stacks",
-            "stars": 8454
+            "stars": 8455
           }
         },
         {
@@ -764,7 +764,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T15:55:16.850Z",
+    "last_updated": "2026-08-16T15:55:43.790Z",
     "original_repository": "awesome-spark/awesome-spark",
     "original_repository_sha": "829b48e14fd4b0b01167a651a4b5791ac9fac8ed",
     "enhanced_repository": "enhansome/enhansome-spark",
