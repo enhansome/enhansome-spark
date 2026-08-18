@@ -213,7 +213,7 @@
             "last_commit": "2026-08-13T16:22:39Z",
             "owner": "mongodb",
             "repo": "mongo-spark",
-            "stars": 731
+            "stars": 730
           }
         },
         {
@@ -244,10 +244,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-16T14:50:50Z",
+            "last_commit": "2026-08-18T07:49:47Z",
             "owner": "apache",
             "repo": "iceberg",
-            "stars": 9139
+            "stars": 9146
           }
         },
         {
@@ -258,10 +258,10 @@
           "repo_info": {
             "archived": false,
             "language": "Scala",
-            "last_commit": "2026-08-15T05:16:55Z",
+            "last_commit": "2026-08-18T15:07:25Z",
             "owner": "delta-io",
             "repo": "delta",
-            "stars": 8939
+            "stars": 8943
           }
         },
         {
@@ -272,10 +272,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-14T16:10:41Z",
+            "last_commit": "2026-08-18T12:30:39Z",
             "owner": "apache",
             "repo": "hudi",
-            "stars": 6213
+            "stars": 6214
           }
         }
       ],
@@ -292,7 +292,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T19:32:27Z",
+            "last_commit": "2026-08-17T22:12:34Z",
             "owner": "hail-is",
             "repo": "hail",
             "stars": 1069
@@ -340,7 +340,7 @@
           "repo_info": {
             "archived": false,
             "language": "Scala",
-            "last_commit": "2026-08-14T08:44:20Z",
+            "last_commit": "2026-08-18T15:36:41Z",
             "owner": "neo4j",
             "repo": "neo4j-spark-connector",
             "stars": 324
@@ -360,10 +360,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T05:03:27Z",
+            "last_commit": "2026-08-18T13:49:34Z",
             "owner": "scikit-learn",
             "repo": "scikit-learn",
-            "stars": 66960
+            "stars": 66969
           }
         },
         {
@@ -377,7 +377,7 @@
             "last_commit": "2026-01-28T17:32:40Z",
             "owner": "intel",
             "repo": "ipex-llm",
-            "stars": 8862
+            "stars": 8861
           }
         },
         {
@@ -388,7 +388,7 @@
           "repo_info": {
             "archived": false,
             "language": "Scala",
-            "last_commit": "2026-08-16T08:20:56Z",
+            "last_commit": "2026-08-18T10:25:29Z",
             "owner": "microsoft",
             "repo": "SynapseML",
             "stars": 5237
@@ -464,10 +464,10 @@
           "repo_info": {
             "archived": false,
             "language": "Scala",
-            "last_commit": "2026-08-14T05:25:25Z",
+            "last_commit": "2026-08-17T03:29:12Z",
             "owner": "apache",
             "repo": "kyuubi",
-            "stars": 2360
+            "stars": 2359
           }
         },
         {
@@ -729,10 +729,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-09T18:56:43Z",
+            "last_commit": "2026-08-17T11:33:41Z",
             "owner": "jupyter",
             "repo": "docker-stacks",
-            "stars": 8455
+            "stars": 8456
           }
         },
         {
@@ -764,7 +764,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T15:55:43.790Z",
+    "last_updated": "2026-08-18T16:01:42.742Z",
     "original_repository": "awesome-spark/awesome-spark",
     "original_repository_sha": "829b48e14fd4b0b01167a651a4b5791ac9fac8ed",
     "enhanced_repository": "enhansome/enhansome-spark",
