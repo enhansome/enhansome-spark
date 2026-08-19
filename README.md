@@ -45,14 +45,14 @@ SparkSQL has [serveral built-in Data Sources](https://spark.apache.org/docs/late
 
 ### Storage
 
-* [Apache Iceberg](https://github.com/apache/iceberg) ⭐ 9,150 | 🐛 907 | 🌐 Java | 📅 2026-08-19 <img src="https://img.shields.io/github/last-commit/apache/iceberg.svg"> - Upserts, Deletes And Incremental Processing on Big Data..
-* [Delta Lake](https://github.com/delta-io/delta) ⭐ 8,943 | 🐛 928 | 🌐 Scala | 📅 2026-08-18 <img src="https://img.shields.io/github/last-commit/delta-io/delta.svg"> - Storage layer with ACID transactions.
-* [Apache Hudi](https://github.com/apache/hudi) ⭐ 6,215 | 🐛 2,911 | 🌐 Java | 📅 2026-08-19 <img src="https://img.shields.io/github/last-commit/apache/hudi.svg"> - Upserts, Deletes And Incremental Processing on Big Data..
+* [Apache Iceberg](https://github.com/apache/iceberg) ⭐ 9,151 | 🐛 909 | 🌐 Java | 📅 2026-08-19 <img src="https://img.shields.io/github/last-commit/apache/iceberg.svg"> - Upserts, Deletes And Incremental Processing on Big Data..
+* [Delta Lake](https://github.com/delta-io/delta) ⭐ 8,943 | 🐛 927 | 🌐 Scala | 📅 2026-08-19 <img src="https://img.shields.io/github/last-commit/delta-io/delta.svg"> - Storage layer with ACID transactions.
+* [Apache Hudi](https://github.com/apache/hudi) ⭐ 6,216 | 🐛 2,905 | 🌐 Java | 📅 2026-08-19 <img src="https://img.shields.io/github/last-commit/apache/hudi.svg"> - Upserts, Deletes And Incremental Processing on Big Data..
 * [lakeFS](https://docs.lakefs.io/integrations/spark.html) <img src="https://img.shields.io/github/last-commit/treeverse/lakefs.svg"> - Integration with the lakeFS atomic versioned storage layer.
 
 ### Bioinformatics
 
-* [Hail](https://github.com/hail-is/hail) ⭐ 1,069 | 🐛 362 | 🌐 Python | 📅 2026-08-18 <img src="https://img.shields.io/github/last-commit/hail-is/hail.svg"> - Genetic analysis framework.
+* [Hail](https://github.com/hail-is/hail) ⭐ 1,069 | 🐛 361 | 🌐 Python | 📅 2026-08-19 <img src="https://img.shields.io/github/last-commit/hail-is/hail.svg"> - Genetic analysis framework.
 * [ADAM](https://github.com/bigdatagenomics/adam) ⭐ 1,057 | 🐛 43 | 🌐 Scala | 📅 2026-03-17 <img src="https://img.shields.io/github/last-commit/bigdatagenomics/adam.svg"> - Set of tools designed to analyse genomics data.
 
 ### GIS
@@ -66,7 +66,7 @@ SparkSQL has [serveral built-in Data Sources](https://spark.apache.org/docs/late
 
 ### Machine Learning Extension
 
-* [ModelDB](https://mitdbg.github.io/modeldb) <img src="https://img.shields.io/github/last-commit/mitdbg/modeldb.svg"> - A system to manage machine learning models for `spark.ml` and [`scikit-learn`](https://github.com/scikit-learn/scikit-learn) ⭐ 66,972 | 🐛 2,125 | 🌐 Python | 📅 2026-08-19 <img src="https://img.shields.io/github/last-commit/scikit-learn/scikit-learn.svg">.
+* [ModelDB](https://mitdbg.github.io/modeldb) <img src="https://img.shields.io/github/last-commit/mitdbg/modeldb.svg"> - A system to manage machine learning models for `spark.ml` and [`scikit-learn`](https://github.com/scikit-learn/scikit-learn) ⭐ 66,971 | 🐛 2,126 | 🌐 Python | 📅 2026-08-19 <img src="https://img.shields.io/github/last-commit/scikit-learn/scikit-learn.svg">.
 * [BigDL](https://github.com/intel-analytics/BigDL) ⚠️ Archived <img src="https://img.shields.io/github/last-commit/intel-analytics/BigDL.svg"> - Distributed Deep Learning library.
 * [Microsoft ML for Apache Spark](https://github.com/Azure/mmlspark) ⭐ 5,238 | 🐛 148 | 🌐 Scala | 📅 2026-08-19 <img src="https://img.shields.io/github/last-commit/Azure/mmlspark.svg"> - A distributed ml library with support for LightGBM, Vowpal Wabbit, OpenCV, Deep Learning, Cognitive Services, and Model Deployment.
 * [MLeap](https://github.com/combust/mleap) ⭐ 1,541 | 🐛 110 | 🌐 Scala | 📅 2026-07-21 <img src="https://img.shields.io/github/last-commit/combust/mleap.svg"> - Execution engine and serialization format which supports deployment of `o.a.s.ml` models without dependency on `SparkSession`.
@@ -109,7 +109,7 @@ SparkSQL has [serveral built-in Data Sources](https://spark.apache.org/docs/late
 
 ### Data quality
 
-* [deequ](https://github.com/awslabs/deequ) ⭐ 3,640 | 🐛 70 | 🌐 Scala | 📅 2026-07-21 <img src="https://img.shields.io/github/last-commit/awslabs/deequ.svg"> - Deequ is a library built on top of Apache Spark for defining "unit tests for data", which measure data quality in large datasets.
+* [deequ](https://github.com/awslabs/deequ) ⭐ 3,641 | 🐛 70 | 🌐 Scala | 📅 2026-07-21 <img src="https://img.shields.io/github/last-commit/awslabs/deequ.svg"> - Deequ is a library built on top of Apache Spark for defining "unit tests for data", which measure data quality in large datasets.
 * [python-deequ](https://github.com/awslabs/python-deequ) ⭐ 826 | 🐛 96 | 🌐 Jupyter Notebook | 📅 2026-07-21 <img src="https://img.shields.io/github/last-commit/awslabs/python-deequ.svg"> - Python API for Deequ.
 
 ### Testing
@@ -187,7 +187,7 @@ This work (<span property="dct:title">Awesome Spark</span>, by <a href="https://
 
 Apache Spark, Spark, Apache, and the Spark logo are <a href="https://www.apache.org/foundation/marks/">trademarks</a> of <a href="http://www.apache.org">The Apache Software Foundation</a>. This compilation is not endorsed by The Apache Software Foundation.
 
-Inspired by [sindresorhus/awesome](https://github.com/sindresorhus/awesome) ⭐ 497,669 | 🐛 102 | 📅 2026-08-18.
+Inspired by [sindresorhus/awesome](https://github.com/sindresorhus/awesome) ⭐ 497,726 | 🐛 102 | 📅 2026-08-18.
 
 ***
 
