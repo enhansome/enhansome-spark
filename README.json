@@ -263,7 +263,7 @@
                 "last_commit": "2026-08-21T16:00:38Z",
                 "owner": "apache",
                 "repo": "iceberg",
-                "stars": 9157
+                "stars": 9164
               }
             },
             {
@@ -275,10 +275,10 @@
                 "archived": false,
                 "id": 182849188,
                 "language": "Scala",
-                "last_commit": "2026-08-21T03:50:43Z",
+                "last_commit": "2026-08-22T12:47:44Z",
                 "owner": "delta-io",
                 "repo": "delta",
-                "stars": 8944
+                "stars": 8946
               }
             },
             {
@@ -290,7 +290,7 @@
                 "archived": false,
                 "id": 76474200,
                 "language": "Java",
-                "last_commit": "2026-08-21T07:43:42Z",
+                "last_commit": "2026-08-22T04:38:36Z",
                 "owner": "apache",
                 "repo": "hudi",
                 "stars": 6215
@@ -349,7 +349,7 @@
                 "archived": false,
                 "id": 50067430,
                 "language": "Scala",
-                "last_commit": "2026-08-12T08:21:56Z",
+                "last_commit": "2026-08-22T06:57:26Z",
                 "owner": "graphframes",
                 "repo": "graphframes",
                 "stars": 1201
@@ -389,7 +389,7 @@
                 "last_commit": "2026-08-21T08:56:47Z",
                 "owner": "scikit-learn",
                 "repo": "scikit-learn",
-                "stars": 66998
+                "stars": 67009
               }
             },
             {
@@ -416,7 +416,7 @@
                 "archived": false,
                 "id": 93381875,
                 "language": "Scala",
-                "last_commit": "2026-08-21T08:01:57Z",
+                "last_commit": "2026-08-22T15:13:45Z",
                 "owner": "microsoft",
                 "repo": "SynapseML",
                 "stars": 5238
@@ -501,7 +501,7 @@
                 "last_commit": "2026-08-21T10:28:29Z",
                 "owner": "apache",
                 "repo": "kyuubi",
-                "stars": 2359
+                "stars": 2360
               }
             },
             {
@@ -516,7 +516,7 @@
                 "last_commit": "2026-08-20T15:06:08Z",
                 "owner": "apache",
                 "repo": "livy",
-                "stars": 959
+                "stars": 960
               }
             },
             {
@@ -657,7 +657,7 @@
                 "last_commit": "2026-08-20T16:25:09Z",
                 "owner": "MrPowers",
                 "repo": "chispa",
-                "stars": 773
+                "stars": 774
               }
             },
             {
@@ -817,7 +817,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T16:03:17.856Z",
+    "last_updated": "2026-08-22T15:55:28.455Z",
     "original_repository": "awesome-spark/awesome-spark",
     "original_repository_id": 50860011,
     "original_repository_sha": "829b48e14fd4b0b01167a651a4b5791ac9fac8ed",
