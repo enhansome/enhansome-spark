@@ -260,10 +260,10 @@
                 "archived": false,
                 "id": 158256479,
                 "language": "Java",
-                "last_commit": "2026-08-21T16:00:38Z",
+                "last_commit": "2026-08-23T10:32:52Z",
                 "owner": "apache",
                 "repo": "iceberg",
-                "stars": 9164
+                "stars": 9165
               }
             },
             {
@@ -275,10 +275,10 @@
                 "archived": false,
                 "id": 182849188,
                 "language": "Scala",
-                "last_commit": "2026-08-22T12:47:44Z",
+                "last_commit": "2026-08-22T16:55:00Z",
                 "owner": "delta-io",
                 "repo": "delta",
-                "stars": 8946
+                "stars": 8950
               }
             },
             {
@@ -290,10 +290,10 @@
                 "archived": false,
                 "id": 76474200,
                 "language": "Java",
-                "last_commit": "2026-08-22T04:38:36Z",
+                "last_commit": "2026-08-23T04:39:44Z",
                 "owner": "apache",
                 "repo": "hudi",
-                "stars": 6215
+                "stars": 6216
               }
             }
           ],
@@ -312,7 +312,7 @@
                 "archived": false,
                 "id": 45069467,
                 "language": "Python",
-                "last_commit": "2026-08-21T09:31:24Z",
+                "last_commit": "2026-08-23T15:32:52Z",
                 "owner": "hail-is",
                 "repo": "hail",
                 "stars": 1069
@@ -389,7 +389,7 @@
                 "last_commit": "2026-08-21T08:56:47Z",
                 "owner": "scikit-learn",
                 "repo": "scikit-learn",
-                "stars": 67009
+                "stars": 67030
               }
             },
             {
@@ -416,7 +416,7 @@
                 "archived": false,
                 "id": 93381875,
                 "language": "Scala",
-                "last_commit": "2026-08-22T15:13:45Z",
+                "last_commit": "2026-08-22T21:22:41Z",
                 "owner": "microsoft",
                 "repo": "SynapseML",
                 "stars": 5238
@@ -817,7 +817,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T15:55:28.455Z",
+    "last_updated": "2026-08-23T15:56:18.626Z",
     "original_repository": "awesome-spark/awesome-spark",
     "original_repository_id": 50860011,
     "original_repository_sha": "829b48e14fd4b0b01167a651a4b5791ac9fac8ed",
