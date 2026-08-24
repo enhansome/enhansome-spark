@@ -119,6 +119,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "sparkmagic",
+              "description": "Jupyter magics and kernels for working with remote Spark clusters, for interactively working with remote Spark clusters through Livy, in Jupyter notebooks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 42875585,
+                "language": "Python",
+                "last_commit": "2025-09-09T14:08:11Z",
+                "owner": "jupyter-incubator",
+                "repo": "sparkmagic",
+                "stars": 1366
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Notebooks and IDEs"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "spark-daria",
               "description": "A Scala library with essential Spark functions and extensions to make you more productive.",
               "children": [],
@@ -260,7 +282,7 @@
                 "archived": false,
                 "id": 158256479,
                 "language": "Java",
-                "last_commit": "2026-08-23T10:32:52Z",
+                "last_commit": "2026-08-24T13:06:11Z",
                 "owner": "apache",
                 "repo": "iceberg",
                 "stars": 9165
@@ -278,7 +300,7 @@
                 "last_commit": "2026-08-22T16:55:00Z",
                 "owner": "delta-io",
                 "repo": "delta",
-                "stars": 8950
+                "stars": 8953
               }
             },
             {
@@ -290,7 +312,7 @@
                 "archived": false,
                 "id": 76474200,
                 "language": "Java",
-                "last_commit": "2026-08-23T04:39:44Z",
+                "last_commit": "2026-08-24T12:15:24Z",
                 "owner": "apache",
                 "repo": "hudi",
                 "stars": 6216
@@ -312,7 +334,7 @@
                 "archived": false,
                 "id": 45069467,
                 "language": "Python",
-                "last_commit": "2026-08-23T15:32:52Z",
+                "last_commit": "2026-08-24T13:51:29Z",
                 "owner": "hail-is",
                 "repo": "hail",
                 "stars": 1069
@@ -342,6 +364,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Apache Sedona",
+              "description": "Cluster computing system for processing large-scale spatial data.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 34533675,
+                "language": "Java",
+                "last_commit": "2026-08-24T06:20:26Z",
+                "owner": "apache",
+                "repo": "sedona",
+                "stars": 2389
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "GIS"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "GraphFrames",
               "description": "Data frame based graph API.",
               "children": [],
@@ -349,7 +393,7 @@
                 "archived": false,
                 "id": 50067430,
                 "language": "Scala",
-                "last_commit": "2026-08-22T06:57:26Z",
+                "last_commit": "2026-08-24T11:01:05Z",
                 "owner": "graphframes",
                 "repo": "graphframes",
                 "stars": 1201
@@ -364,7 +408,7 @@
                 "archived": false,
                 "id": 53063706,
                 "language": "Scala",
-                "last_commit": "2026-08-20T13:41:25Z",
+                "last_commit": "2026-08-24T13:04:38Z",
                 "owner": "neo4j",
                 "repo": "neo4j-spark-connector",
                 "stars": 324
@@ -386,10 +430,10 @@
                 "archived": false,
                 "id": 843222,
                 "language": "Python",
-                "last_commit": "2026-08-21T08:56:47Z",
+                "last_commit": "2026-08-24T12:19:11Z",
                 "owner": "scikit-learn",
                 "repo": "scikit-learn",
-                "stars": 67030
+                "stars": 67048
               }
             },
             {
@@ -416,10 +460,10 @@
                 "archived": false,
                 "id": 93381875,
                 "language": "Scala",
-                "last_commit": "2026-08-22T21:22:41Z",
+                "last_commit": "2026-08-24T02:44:56Z",
                 "owner": "microsoft",
                 "repo": "SynapseML",
-                "stars": 5238
+                "stars": 5239
               }
             },
             {
@@ -498,10 +542,10 @@
                 "archived": false,
                 "id": 114619105,
                 "language": "Scala",
-                "last_commit": "2026-08-21T10:28:29Z",
+                "last_commit": "2026-08-24T14:08:14Z",
                 "owner": "apache",
                 "repo": "kyuubi",
-                "stars": 2360
+                "stars": 2361
               }
             },
             {
@@ -538,6 +582,28 @@
           "description": null,
           "node_type": "group",
           "title": "Middleware"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Data Mechanics Delight",
+              "description": "Cross-platform monitoring tool (Spark UI / Spark History Server replacement).",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 307389674,
+                "language": "Scala",
+                "last_commit": "2024-05-31T14:14:28Z",
+                "owner": "datamechanics",
+                "repo": "delight",
+                "stars": 345
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Monitoring"
         },
         {
           "children": [
@@ -590,6 +656,50 @@
           "description": null,
           "node_type": "group",
           "title": "Utilities"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "spark-nlp",
+              "description": "Natural language processing library built on top of Apache Spark ML.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 104670986,
+                "language": "Scala",
+                "last_commit": "2026-08-20T19:28:30Z",
+                "owner": "JohnSnowLabs",
+                "repo": "spark-nlp",
+                "stars": 4158
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Natural Language Processing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Koalas",
+              "description": "Pandas DataFrame API on top of Apache Spark.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 164026325,
+                "language": "Python",
+                "last_commit": "2024-03-20T15:33:34Z",
+                "owner": "databricks",
+                "repo": "koalas",
+                "stars": 3371
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Interfaces"
         },
         {
           "children": [
@@ -679,6 +789,50 @@
           "description": null,
           "node_type": "group",
           "title": "Testing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Archives Unleashed Toolkit",
+              "description": "Open-source toolkit for analyzing web archives.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 96417459,
+                "language": "Scala",
+                "last_commit": "2025-12-05T02:26:14Z",
+                "owner": "archivesunleashed",
+                "repo": "aut",
+                "stars": 158
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Web Archives"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Cromwell",
+              "description": "Workflow management system with Spark backend.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 34136406,
+                "language": "Scala",
+                "last_commit": "2026-08-04T14:32:07Z",
+                "owner": "broadinstitute",
+                "repo": "cromwell",
+                "stars": 1080
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Workflow Management"
         }
       ],
       "title": "Packages"
@@ -786,7 +940,7 @@
                 "archived": false,
                 "id": 39144867,
                 "language": "Python",
-                "last_commit": "2026-08-17T11:33:41Z",
+                "last_commit": "2026-08-24T11:05:23Z",
                 "owner": "jupyter",
                 "repo": "docker-stacks",
                 "stars": 8459
@@ -817,7 +971,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T15:56:18.626Z",
+    "last_updated": "2026-08-24T14:10:30.682Z",
     "original_repository": "awesome-spark/awesome-spark",
     "original_repository_id": 50860011,
     "original_repository_sha": "829b48e14fd4b0b01167a651a4b5791ac9fac8ed",
