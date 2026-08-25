@@ -282,10 +282,10 @@
                 "archived": false,
                 "id": 158256479,
                 "language": "Java",
-                "last_commit": "2026-08-24T17:01:12Z",
+                "last_commit": "2026-08-25T08:49:09Z",
                 "owner": "apache",
                 "repo": "iceberg",
-                "stars": 9170
+                "stars": 9172
               }
             },
             {
@@ -312,7 +312,7 @@
                 "archived": false,
                 "id": 76474200,
                 "language": "Java",
-                "last_commit": "2026-08-25T04:41:00Z",
+                "last_commit": "2026-08-25T16:02:30Z",
                 "owner": "apache",
                 "repo": "hudi",
                 "stars": 6217
@@ -334,7 +334,7 @@
                 "archived": false,
                 "id": 45069467,
                 "language": "Python",
-                "last_commit": "2026-08-24T21:09:50Z",
+                "last_commit": "2026-08-25T16:13:05Z",
                 "owner": "hail-is",
                 "repo": "hail",
                 "stars": 1070
@@ -408,7 +408,7 @@
                 "archived": false,
                 "id": 53063706,
                 "language": "Scala",
-                "last_commit": "2026-08-24T14:49:10Z",
+                "last_commit": "2026-08-25T14:36:33Z",
                 "owner": "neo4j",
                 "repo": "neo4j-spark-connector",
                 "stars": 324
@@ -430,10 +430,10 @@
                 "archived": false,
                 "id": 843222,
                 "language": "Python",
-                "last_commit": "2026-08-24T15:38:18Z",
+                "last_commit": "2026-08-25T15:28:57Z",
                 "owner": "scikit-learn",
                 "repo": "scikit-learn",
-                "stars": 67058
+                "stars": 67061
               }
             },
             {
@@ -557,7 +557,7 @@
                 "archived": false,
                 "id": 95343930,
                 "language": "Scala",
-                "last_commit": "2026-08-24T20:50:00Z",
+                "last_commit": "2026-08-25T14:55:39Z",
                 "owner": "apache",
                 "repo": "livy",
                 "stars": 960
@@ -767,7 +767,7 @@
                 "last_commit": "2026-08-20T16:25:09Z",
                 "owner": "MrPowers",
                 "repo": "chispa",
-                "stars": 774
+                "stars": 773
               }
             },
             {
@@ -971,7 +971,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:58:59.213Z",
+    "last_updated": "2026-08-25T16:17:48.930Z",
     "original_repository": "awesome-spark/awesome-spark",
     "original_repository_id": 50860011,
     "original_repository_sha": "829b48e14fd4b0b01167a651a4b5791ac9fac8ed",
