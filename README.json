@@ -166,7 +166,7 @@
                 "last_commit": "2026-06-09T08:47:03Z",
                 "owner": "mrpowers-io",
                 "repo": "quinn",
-                "stars": 688
+                "stars": 689
               }
             },
             {
@@ -282,10 +282,10 @@
                 "archived": false,
                 "id": 158256479,
                 "language": "Java",
-                "last_commit": "2026-08-26T15:23:08Z",
+                "last_commit": "2026-08-27T00:59:18Z",
                 "owner": "apache",
                 "repo": "iceberg",
-                "stars": 9174
+                "stars": 9178
               }
             },
             {
@@ -297,10 +297,10 @@
                 "archived": false,
                 "id": 182849188,
                 "language": "Scala",
-                "last_commit": "2026-08-26T13:48:57Z",
+                "last_commit": "2026-08-27T11:56:45Z",
                 "owner": "delta-io",
                 "repo": "delta",
-                "stars": 8958
+                "stars": 8960
               }
             },
             {
@@ -312,10 +312,10 @@
                 "archived": false,
                 "id": 76474200,
                 "language": "Java",
-                "last_commit": "2026-08-26T16:06:23Z",
+                "last_commit": "2026-08-27T10:19:17Z",
                 "owner": "apache",
                 "repo": "hudi",
-                "stars": 6219
+                "stars": 6222
               }
             }
           ],
@@ -334,7 +334,7 @@
                 "archived": false,
                 "id": 45069467,
                 "language": "Python",
-                "last_commit": "2026-08-25T19:30:33Z",
+                "last_commit": "2026-08-26T21:32:49Z",
                 "owner": "hail-is",
                 "repo": "hail",
                 "stars": 1070
@@ -371,7 +371,7 @@
                 "archived": false,
                 "id": 34533675,
                 "language": "Java",
-                "last_commit": "2026-08-26T06:50:26Z",
+                "last_commit": "2026-08-27T07:37:05Z",
                 "owner": "apache",
                 "repo": "sedona",
                 "stars": 2390
@@ -393,10 +393,10 @@
                 "archived": false,
                 "id": 50067430,
                 "language": "Scala",
-                "last_commit": "2026-08-26T08:24:11Z",
+                "last_commit": "2026-08-27T07:33:52Z",
                 "owner": "graphframes",
                 "repo": "graphframes",
-                "stars": 1202
+                "stars": 1201
               }
             },
             {
@@ -408,7 +408,7 @@
                 "archived": false,
                 "id": 53063706,
                 "language": "Scala",
-                "last_commit": "2026-08-26T16:03:40Z",
+                "last_commit": "2026-08-27T10:27:25Z",
                 "owner": "neo4j",
                 "repo": "neo4j-spark-connector",
                 "stars": 324
@@ -433,7 +433,7 @@
                 "last_commit": "2026-08-26T13:46:35Z",
                 "owner": "scikit-learn",
                 "repo": "scikit-learn",
-                "stars": 67063
+                "stars": 67072
               }
             },
             {
@@ -448,7 +448,7 @@
                 "last_commit": "2026-01-28T17:32:40Z",
                 "owner": "intel",
                 "repo": "ipex-llm",
-                "stars": 8860
+                "stars": 8859
               }
             },
             {
@@ -460,7 +460,7 @@
                 "archived": false,
                 "id": 93381875,
                 "language": "Scala",
-                "last_commit": "2026-08-26T08:23:45Z",
+                "last_commit": "2026-08-27T05:05:17Z",
                 "owner": "microsoft",
                 "repo": "SynapseML",
                 "stars": 5240
@@ -542,10 +542,10 @@
                 "archived": false,
                 "id": 114619105,
                 "language": "Scala",
-                "last_commit": "2026-08-26T09:29:20Z",
+                "last_commit": "2026-08-26T20:56:15Z",
                 "owner": "apache",
                 "repo": "kyuubi",
-                "stars": 2361
+                "stars": 2362
               }
             },
             {
@@ -715,7 +715,7 @@
                 "last_commit": "2026-07-21T17:55:47Z",
                 "owner": "awslabs",
                 "repo": "deequ",
-                "stars": 3643
+                "stars": 3642
               }
             },
             {
@@ -971,9 +971,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T16:37:48.327Z",
-    "original_repository": "awesome-spark/awesome-spark",
-    "original_repository_id": 50860011,
+    "last_updated": "2026-08-27T12:03:44.847Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 50860011,
+      "language": "Shell",
+      "last_commit": "2026-02-27T08:06:58Z",
+      "owner": "awesome-spark",
+      "repo": "awesome-spark",
+      "stars": 1892
+    },
     "original_repository_sha": "829b48e14fd4b0b01167a651a4b5791ac9fac8ed",
     "enhanced_repository": "enhansome/enhansome-spark",
     "enhanced_repository_description": null,
