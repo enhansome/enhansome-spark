@@ -282,7 +282,7 @@
                 "archived": false,
                 "id": 158256479,
                 "language": "Java",
-                "last_commit": "2026-08-27T00:59:18Z",
+                "last_commit": "2026-08-28T00:26:15Z",
                 "owner": "apache",
                 "repo": "iceberg",
                 "stars": 9178
@@ -297,10 +297,10 @@
                 "archived": false,
                 "id": 182849188,
                 "language": "Scala",
-                "last_commit": "2026-08-27T11:56:45Z",
+                "last_commit": "2026-08-27T21:18:09Z",
                 "owner": "delta-io",
                 "repo": "delta",
-                "stars": 8960
+                "stars": 8961
               }
             },
             {
@@ -312,10 +312,10 @@
                 "archived": false,
                 "id": 76474200,
                 "language": "Java",
-                "last_commit": "2026-08-27T10:19:17Z",
+                "last_commit": "2026-08-28T00:12:52Z",
                 "owner": "apache",
                 "repo": "hudi",
-                "stars": 6222
+                "stars": 6224
               }
             }
           ],
@@ -334,7 +334,7 @@
                 "archived": false,
                 "id": 45069467,
                 "language": "Python",
-                "last_commit": "2026-08-26T21:32:49Z",
+                "last_commit": "2026-08-27T19:55:26Z",
                 "owner": "hail-is",
                 "repo": "hail",
                 "stars": 1070
@@ -408,7 +408,7 @@
                 "archived": false,
                 "id": 53063706,
                 "language": "Scala",
-                "last_commit": "2026-08-27T10:27:25Z",
+                "last_commit": "2026-08-27T15:10:25Z",
                 "owner": "neo4j",
                 "repo": "neo4j-spark-connector",
                 "stars": 324
@@ -430,10 +430,10 @@
                 "archived": false,
                 "id": 843222,
                 "language": "Python",
-                "last_commit": "2026-08-26T13:46:35Z",
+                "last_commit": "2026-08-27T14:13:17Z",
                 "owner": "scikit-learn",
                 "repo": "scikit-learn",
-                "stars": 67072
+                "stars": 67082
               }
             },
             {
@@ -448,7 +448,7 @@
                 "last_commit": "2026-01-28T17:32:40Z",
                 "owner": "intel",
                 "repo": "ipex-llm",
-                "stars": 8859
+                "stars": 8860
               }
             },
             {
@@ -460,10 +460,10 @@
                 "archived": false,
                 "id": 93381875,
                 "language": "Scala",
-                "last_commit": "2026-08-27T05:05:17Z",
+                "last_commit": "2026-08-27T23:36:43Z",
                 "owner": "microsoft",
                 "repo": "SynapseML",
-                "stars": 5240
+                "stars": 5242
               }
             },
             {
@@ -545,7 +545,7 @@
                 "last_commit": "2026-08-26T20:56:15Z",
                 "owner": "apache",
                 "repo": "kyuubi",
-                "stars": 2362
+                "stars": 2363
               }
             },
             {
@@ -715,7 +715,7 @@
                 "last_commit": "2026-07-21T17:55:47Z",
                 "owner": "awslabs",
                 "repo": "deequ",
-                "stars": 3642
+                "stars": 3643
               }
             },
             {
@@ -749,7 +749,7 @@
                 "archived": false,
                 "id": 30093433,
                 "language": "Scala",
-                "last_commit": "2026-08-07T22:41:59Z",
+                "last_commit": "2026-08-27T23:56:37Z",
                 "owner": "holdenk",
                 "repo": "spark-testing-base",
                 "stars": 1555
@@ -943,7 +943,7 @@
                 "last_commit": "2026-08-24T11:05:23Z",
                 "owner": "jupyter",
                 "repo": "docker-stacks",
-                "stars": 8459
+                "stars": 8460
               }
             },
             {
@@ -971,7 +971,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:03:44.847Z",
+    "last_updated": "2026-08-28T00:36:02.320Z",
     "original_repository_info": {
       "archived": false,
       "id": 50860011,
