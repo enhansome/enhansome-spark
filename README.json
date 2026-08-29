@@ -12,12 +12,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ".NET for Apache® Spark™ makes Apache Spark™ easily accessible to .NET developers.",
+                "homepage": "https://dot.net/spark",
                 "id": 182849051,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-19T09:49:03Z",
+                "open_issues": 201,
                 "owner": "dotnet",
                 "repo": "spark",
-                "stars": 2098
+                "stars": 2098,
+                "topics": [
+                  "analytics",
+                  "apache-spark",
+                  "azure",
+                  "bigdata",
+                  "csharp",
+                  "databricks",
+                  "dotnet",
+                  "dotnet-core",
+                  "dotnet-standard",
+                  "emr",
+                  "fsharp",
+                  "hdinsight",
+                  "machine-learning",
+                  "microsoft",
+                  "spark",
+                  "spark-sql",
+                  "spark-streaming",
+                  "streaming",
+                  "tpcds",
+                  "tpch"
+                ]
               },
               "first_seen": "2026-08-29T00:05:56.588Z"
             },
@@ -28,12 +54,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "R interface for Apache Spark",
+                "homepage": "https://spark.posit.co/",
                 "id": 59305491,
                 "language": "R",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-02T02:14:54Z",
+                "open_issues": 356,
                 "owner": "sparklyr",
                 "repo": "sparklyr",
-                "stars": 972
+                "stars": 972,
+                "topics": [
+                  "apache-spark",
+                  "distributed",
+                  "dplyr",
+                  "ide",
+                  "livy",
+                  "machine-learning",
+                  "r",
+                  "remote-clusters",
+                  "rstats",
+                  "spark",
+                  "sparklyr"
+                ]
               },
               "first_seen": "2026-08-29T00:05:56.588Z"
             },
@@ -44,12 +87,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This projects gives Kotlin bindings and several extensions for Apache Spark. We are looking to have this as a part of Apache Spark 3.x",
+                "homepage": null,
                 "id": 268498799,
                 "language": "Kotlin",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-18T09:44:23Z",
+                "open_issues": 19,
                 "owner": "Kotlin",
                 "repo": "kotlin-spark-api",
-                "stars": 481
+                "stars": 481,
+                "topics": [
+                  "bigdata",
+                  "kotlin",
+                  "nullability",
+                  "scala",
+                  "spark"
+                ]
               },
               "first_seen": "2026-08-29T00:05:56.588Z"
             },
@@ -60,12 +114,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Haskell on Apache Spark.",
+                "homepage": null,
                 "id": 45848386,
                 "language": "Haskell",
+                "license": "BSD-3-Clause",
                 "last_commit": "2025-07-30T21:18:05Z",
+                "open_issues": 16,
                 "owner": "tweag",
                 "repo": "sparkle",
-                "stars": 449
+                "stars": 449,
+                "topics": [
+                  "analytics",
+                  "apache-spark",
+                  "haskell",
+                  "spark"
+                ]
               },
               "first_seen": "2026-08-29T00:05:56.588Z"
             },
@@ -76,12 +140,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Apache Spark Connect Client for Golang",
+                "homepage": "https://spark.apache.org/",
                 "id": 647220570,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-15T22:56:02Z",
+                "open_issues": 26,
                 "owner": "apache",
                 "repo": "spark-connect-go",
-                "stars": 251
+                "stars": 251,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:05:56.588Z"
             },
@@ -92,12 +161,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Apache Spark Connect Client for Rust",
+                "homepage": "https://docs.rs/spark-connect-rs",
                 "id": 693165063,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2025-06-10T13:09:52Z",
+                "open_issues": 11,
                 "owner": "sjrusso8",
                 "repo": "spark-connect-rs",
-                "stars": 116
+                "stars": 116,
+                "topics": [
+                  "grpc-client",
+                  "spark",
+                  "spark-connect",
+                  "spark-sql"
+                ]
               },
               "first_seen": "2026-08-29T00:05:56.588Z"
             },
@@ -108,12 +187,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Apache Spark Connect Client for C#",
+                "homepage": "https://www.nuget.org/packages/Apache.Spark.Connect",
                 "id": 786599961,
                 "language": "C#",
+                "license": "Apache-2.0",
                 "last_commit": "2024-04-23T12:15:29Z",
+                "open_issues": 1,
                 "owner": "mdrakiburrahman",
                 "repo": "spark-connect-csharp",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "apache",
+                  "connect",
+                  "dotnet",
+                  "grpc",
+                  "protobuf",
+                  "spark"
+                ]
               },
               "first_seen": "2026-08-29T00:05:56.588Z"
             }
@@ -131,12 +222,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jupyter magics and kernels for working with remote Spark clusters",
+                "homepage": null,
                 "id": 42875585,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-09-09T14:08:11Z",
+                "open_issues": 167,
                 "owner": "jupyter-incubator",
                 "repo": "sparkmagic",
-                "stars": 1366
+                "stars": 1366,
+                "topics": [
+                  "cluster",
+                  "jupyter",
+                  "jupyter-notebook",
+                  "kerberos",
+                  "kernel",
+                  "livy",
+                  "magic",
+                  "notebook",
+                  "pandas-dataframe",
+                  "pyspark",
+                  "spark",
+                  "sql-query"
+                ]
               },
               "first_seen": "2026-08-29T00:05:56.588Z"
             }
@@ -154,12 +263,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Essential Spark extensions and helper methods ✨😲",
+                "homepage": null,
                 "id": 82196558,
                 "language": "Scala",
+                "license": "MIT",
                 "last_commit": "2026-06-22T13:05:57Z",
+                "open_issues": 18,
                 "owner": "mrpowers-io",
                 "repo": "spark-daria",
-                "stars": 767
+                "stars": 767,
+                "topics": [
+                  "dataframe",
+                  "spark"
+                ]
               },
               "first_seen": "2026-08-29T00:05:56.588Z"
             },
@@ -170,12 +287,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "pyspark methods to enhance developer productivity 📣 👯 🎉",
+                "homepage": "https://mrpowers-io.github.io/quinn/",
                 "id": 103657756,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-09T08:47:03Z",
+                "open_issues": 25,
                 "owner": "mrpowers-io",
                 "repo": "quinn",
-                "stars": 689
+                "stars": 689,
+                "topics": [
+                  "apache-spark",
+                  "pyspark"
+                ]
               },
               "first_seen": "2026-08-29T00:05:56.588Z"
             },
@@ -186,12 +311,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Joblib Apache Spark Backend",
+                "homepage": null,
                 "id": 223007271,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-24T18:31:10Z",
+                "open_issues": 20,
                 "owner": "joblib",
                 "repo": "joblib-spark",
-                "stars": 249
+                "stars": 249,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:05:56.588Z"
             },
@@ -202,12 +332,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mirror of Apache DataFu",
+                "homepage": null,
                 "id": 15895714,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-09T08:49:59Z",
+                "open_issues": 3,
                 "owner": "apache",
                 "repo": "datafu",
-                "stars": 124
+                "stars": 124,
+                "topics": [
+                  "datafu"
+                ]
               },
               "first_seen": "2026-08-29T00:05:56.588Z"
             },
@@ -218,12 +355,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A library that brings useful functions from various modern database management systems to Apache Spark",
+                "homepage": "https://itachi.readthedocs.io/",
                 "id": 252442888,
                 "language": "Scala",
+                "license": "Apache-2.0",
                 "last_commit": "2023-09-04T12:20:14Z",
+                "open_issues": 1,
                 "owner": "yaooqinn",
                 "repo": "itachi",
-                "stars": 63
+                "stars": 63,
+                "topics": [
+                  "hive",
+                  "postgres",
+                  "presto",
+                  "spark",
+                  "trino"
+                ]
               },
               "first_seen": "2026-08-29T00:05:56.588Z"
             }
@@ -241,12 +389,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Apache Spark to Apache Cassandra connector",
+                "homepage": "https://apache.github.io/cassandra-spark-connector/",
                 "id": 21280887,
                 "language": "Scala",
+                "license": "Apache-2.0",
                 "last_commit": "2025-04-29T09:28:59Z",
+                "open_issues": 27,
                 "owner": "apache",
                 "repo": "cassandra-spark-connector",
-                "stars": 1954
+                "stars": 1954,
+                "topics": [
+                  "cassandra",
+                  "scala",
+                  "spark"
+                ]
               },
               "first_seen": "2026-08-29T00:05:56.588Z"
             },
@@ -257,12 +414,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The MongoDB Spark Connector",
+                "homepage": "https://docs.mongodb.com/spark-connector/",
                 "id": 35964690,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-13T16:22:39Z",
+                "open_issues": 3,
                 "owner": "mongodb",
                 "repo": "mongo-spark",
-                "stars": 730
+                "stars": 730,
+                "topics": [
+                  "connector",
+                  "mongo-spark",
+                  "mongodb",
+                  "spark",
+                  "spark-packages"
+                ]
               },
               "first_seen": "2026-08-29T00:05:56.588Z"
             },
@@ -273,12 +441,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "XML data source for Spark SQL and DataFrames",
+                "homepage": null,
                 "id": 46900076,
                 "language": "Scala",
+                "license": "Apache-2.0",
                 "last_commit": "2024-08-11T22:56:29Z",
+                "open_issues": 0,
                 "owner": "databricks",
                 "repo": "spark-xml",
-                "stars": 513
+                "stars": 513,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:05:56.588Z"
             }
@@ -296,12 +469,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Apache Iceberg",
+                "homepage": "https://iceberg.apache.org/",
                 "id": 158256479,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T22:08:30Z",
+                "open_issues": 908,
                 "owner": "apache",
                 "repo": "iceberg",
-                "stars": 9183
+                "stars": 9183,
+                "topics": [
+                  "apache",
+                  "hacktoberfest",
+                  "iceberg"
+                ]
               },
               "first_seen": "2026-08-29T00:05:56.588Z"
             },
@@ -312,12 +494,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",
+                "homepage": "https://delta.io",
                 "id": 182849188,
                 "language": "Scala",
-                "last_commit": "2026-08-28T23:19:06Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T02:14:34Z",
+                "open_issues": 938,
                 "owner": "delta-io",
                 "repo": "delta",
-                "stars": 8962
+                "stars": 8961,
+                "topics": [
+                  "acid",
+                  "analytics",
+                  "big-data",
+                  "delta-lake",
+                  "spark"
+                ]
               },
               "first_seen": "2026-08-29T00:05:56.588Z"
             },
@@ -328,12 +521,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Upserts, Deletes And Incremental Processing on Big Data.",
+                "homepage": "https://hudi.apache.org/",
                 "id": 76474200,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T20:00:01Z",
+                "open_issues": 2852,
                 "owner": "apache",
                 "repo": "hudi",
-                "stars": 6226
+                "stars": 6226,
+                "topics": [
+                  "apacheflink",
+                  "apachehudi",
+                  "apachespark",
+                  "bigdata",
+                  "data-integration",
+                  "datalake",
+                  "hudi",
+                  "incremental-processing",
+                  "stream-processing"
+                ]
               },
               "first_seen": "2026-08-29T00:05:56.588Z"
             }
@@ -351,12 +559,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cloud-native genomic dataframes and batch computing",
+                "homepage": "https://hail.is",
                 "id": 45069467,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-28T16:46:06Z",
+                "open_issues": 364,
                 "owner": "hail-is",
                 "repo": "hail",
-                "stars": 1070
+                "stars": 1070,
+                "topics": [
+                  "bioinformatics",
+                  "genetics",
+                  "genomics",
+                  "gwas",
+                  "hail",
+                  "python",
+                  "software",
+                  "vcf"
+                ]
               },
               "first_seen": "2026-08-29T00:05:56.588Z"
             },
@@ -367,12 +589,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ADAM is a genomics analysis platform with specialized file formats built using Apache Avro, Apache Spark, and Apache Parquet. Apache 2 licensed.",
+                "homepage": null,
                 "id": 14541530,
                 "language": "Scala",
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-17T20:10:53Z",
+                "open_issues": 43,
                 "owner": "bigdatagenomics",
                 "repo": "adam",
-                "stars": 1057
+                "stars": 1057,
+                "topics": [
+                  "avro",
+                  "big-data",
+                  "bioinformatics",
+                  "genomics",
+                  "java",
+                  "parquet",
+                  "python",
+                  "r",
+                  "scala",
+                  "spark"
+                ]
               },
               "first_seen": "2026-08-29T00:05:56.588Z"
             }
@@ -390,12 +628,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A cluster computing framework for processing large-scale geospatial data",
+                "homepage": "https://sedona.apache.org/",
                 "id": 34533675,
                 "language": "Java",
-                "last_commit": "2026-08-28T16:11:31Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T02:04:22Z",
+                "open_issues": 100,
                 "owner": "apache",
                 "repo": "sedona",
-                "stars": 2392
+                "stars": 2392,
+                "topics": [
+                  "cluster-computing",
+                  "geospatial",
+                  "hacktoberfest",
+                  "java",
+                  "python",
+                  "scala",
+                  "spatial-analysis",
+                  "spatial-query",
+                  "spatial-sql"
+                ]
               },
               "first_seen": "2026-08-29T00:05:56.588Z"
             }
@@ -413,12 +666,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GraphFrames is a package for Apache Spark which provides DataFrame-based Graphs",
+                "homepage": "https://graphframes.io/",
                 "id": 50067430,
                 "language": "Scala",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T23:47:10Z",
+                "open_issues": 45,
                 "owner": "graphframes",
                 "repo": "graphframes",
-                "stars": 1201
+                "stars": 1201,
+                "topics": [
+                  "apache-spark",
+                  "big-data",
+                  "connected-components",
+                  "dataframe",
+                  "dataframes",
+                  "graph-algorithms",
+                  "graph-analysis",
+                  "graph-theory",
+                  "graphs",
+                  "network-motif",
+                  "network-motifs",
+                  "networks",
+                  "pyspark",
+                  "spark"
+                ]
               },
               "first_seen": "2026-08-29T00:05:56.588Z"
             },
@@ -429,12 +702,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Neo4j Connector for Apache Spark, which provides bi-directional read/write access to Neo4j from Spark, using the Spark DataSource APIs",
+                "homepage": "https://neo4j.com/docs/spark/current/",
                 "id": 53063706,
                 "language": "Scala",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T15:45:40Z",
+                "open_issues": 9,
                 "owner": "neo4j",
                 "repo": "neo4j-spark-connector",
-                "stars": 324
+                "stars": 324,
+                "topics": [
+                  "bolt",
+                  "cypher",
+                  "hacktoberfest",
+                  "neo4j-connector",
+                  "neo4j-driver",
+                  "spark"
+                ]
               },
               "first_seen": "2026-08-29T00:05:56.588Z"
             }
@@ -452,12 +737,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "scikit-learn: machine learning in Python",
+                "homepage": "https://scikit-learn.org",
                 "id": 843222,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-28T21:28:28Z",
+                "open_issues": 2134,
                 "owner": "scikit-learn",
                 "repo": "scikit-learn",
-                "stars": 67090
+                "stars": 67091,
+                "topics": [
+                  "data-analysis",
+                  "data-science",
+                  "machine-learning",
+                  "python",
+                  "statistics"
+                ]
               },
               "first_seen": "2026-08-29T00:05:56.588Z"
             },
@@ -468,12 +764,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Accelerate local LLM inference and finetuning (LLaMA, Mistral, ChatGLM, Qwen, DeepSeek, Mixtral, Gemma, Phi, MiniCPM, Qwen-VL, MiniCPM-V, etc.) on Intel XPU (e.g., local PC with iGPU and NPU, discrete GPU such as Arc, Flex and Max); seamlessly integrate with llama.cpp, Ollama, HuggingFace, LangChain, LlamaIndex, vLLM, DeepSpeed, Axolotl, etc.",
+                "homepage": null,
                 "id": 66823715,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-01-28T17:32:40Z",
+                "open_issues": 1484,
                 "owner": "intel",
                 "repo": "ipex-llm",
-                "stars": 8860
+                "stars": 8860,
+                "topics": [
+                  "gpu",
+                  "llm",
+                  "pytorch",
+                  "transformers"
+                ]
               },
               "first_seen": "2026-08-29T00:05:56.588Z"
             },
@@ -484,12 +790,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple and Distributed Machine Learning Python Library porting ML algorithms for Spark",
+                "homepage": "http://aka.ms/spark",
                 "id": 93381875,
                 "language": "Scala",
+                "license": "MIT",
                 "last_commit": "2026-08-28T05:43:35Z",
+                "open_issues": 141,
                 "owner": "microsoft",
                 "repo": "SynapseML",
-                "stars": 5242
+                "stars": 5242,
+                "topics": [
+                  "ai",
+                  "apache-spark",
+                  "azure",
+                  "big-data",
+                  "cognitive-services",
+                  "data-science",
+                  "databricks",
+                  "deep-learning",
+                  "http",
+                  "lightgbm",
+                  "machine-learning",
+                  "microsoft",
+                  "ml",
+                  "model-deployment",
+                  "onnx",
+                  "opencv",
+                  "pyspark",
+                  "scala",
+                  "spark",
+                  "synapse"
+                ]
               },
               "first_seen": "2026-08-29T00:05:56.588Z"
             },
@@ -500,12 +832,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MLeap: Deploy ML Pipelines to Production",
+                "homepage": "https://combust.github.io/mleap-docs/",
                 "id": 66331305,
                 "language": "Scala",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-21T17:38:04Z",
+                "open_issues": 110,
                 "owner": "combust",
                 "repo": "mleap",
-                "stars": 1543
+                "stars": 1543,
+                "topics": [
+                  "data-pipelines",
+                  "python",
+                  "scala",
+                  "scikit-learn",
+                  "spark",
+                  "tensorflow",
+                  "transformers"
+                ]
               },
               "first_seen": "2026-08-29T00:05:56.588Z"
             },
@@ -516,12 +861,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sparkling Water provides H2O functionality inside Spark cluster",
+                "homepage": "https://docs.h2o.ai/sparkling-water/3.3/latest-stable/doc/index.html",
                 "id": 25181584,
                 "language": "Scala",
+                "license": "Apache-2.0",
                 "last_commit": "2025-11-05T03:56:25Z",
+                "open_issues": 43,
                 "owner": "h2oai",
                 "repo": "sparkling-water",
-                "stars": 979
+                "stars": 979,
+                "topics": [
+                  "big-data",
+                  "h2o",
+                  "integration",
+                  "machine-learning",
+                  "pyspark",
+                  "pysparkling",
+                  "rsparkling",
+                  "scala",
+                  "spark"
+                ]
               },
               "first_seen": "2026-08-29T00:05:56.588Z"
             },
@@ -532,12 +892,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PMML evaluator library for Apache Spark",
+                "homepage": null,
                 "id": 47058451,
                 "language": "Scala",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-02-08T08:19:27Z",
+                "open_issues": 1,
                 "owner": "jpmml",
                 "repo": "jpmml-evaluator-spark",
-                "stars": 99
+                "stars": 99,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:05:56.588Z"
             }
@@ -555,12 +920,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "REST job server for Apache Spark",
+                "homepage": null,
                 "id": 23205911,
                 "language": "Scala",
+                "license": "NOASSERTION",
                 "last_commit": "2026-03-03T12:09:21Z",
+                "open_issues": 111,
                 "owner": "spark-jobserver",
                 "repo": "spark-jobserver",
-                "stars": 2836
+                "stars": 2836,
+                "topics": [
+                  "rest-api",
+                  "scala",
+                  "spark",
+                  "spark-jobserver"
+                ]
               },
               "first_seen": "2026-08-29T00:05:56.588Z"
             },
@@ -571,12 +946,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.",
+                "homepage": "https://kyuubi.apache.org/",
                 "id": 114619105,
                 "language": "Scala",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T12:19:06Z",
+                "open_issues": 531,
                 "owner": "apache",
                 "repo": "kyuubi",
-                "stars": 2363
+                "stars": 2363,
+                "topics": [
+                  "data-lake",
+                  "hacktoberfest",
+                  "hadoop",
+                  "hive",
+                  "jdbc",
+                  "kubernetes",
+                  "spark",
+                  "spark-sql",
+                  "sql",
+                  "thrift"
+                ]
               },
               "first_seen": "2026-08-29T00:05:56.588Z"
             },
@@ -587,12 +978,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Apache Livy is an open source REST interface for interacting with Apache Spark from anywhere.",
+                "homepage": "https://livy.apache.org/",
                 "id": 95343930,
                 "language": "Scala",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T13:30:41Z",
+                "open_issues": 41,
                 "owner": "apache",
                 "repo": "livy",
-                "stars": 960
+                "stars": 960,
+                "topics": [
+                  "apachelivy",
+                  "bigdata",
+                  "livy",
+                  "spark"
+                ]
               },
               "first_seen": "2026-08-29T00:05:56.588Z"
             },
@@ -603,12 +1004,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mirror of Apache Toree (Incubating)",
+                "homepage": null,
                 "id": 49190360,
                 "language": "Scala",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T21:48:29Z",
+                "open_issues": 20,
                 "owner": "apache",
                 "repo": "incubator-toree",
-                "stars": 750
+                "stars": 750,
+                "topics": [
+                  "toree"
+                ]
               },
               "first_seen": "2026-08-29T00:05:56.588Z"
             }
@@ -626,12 +1034,29 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A Spark UI and Spark History Server alternative with CPU and Memory metrics! Delight is free, cross-platform, and open-source.",
+                "homepage": "https://www.datamechanics.co/delight",
                 "id": 307389674,
                 "language": "Scala",
+                "license": "NOASSERTION",
                 "last_commit": "2024-05-31T14:14:28Z",
+                "open_issues": 0,
                 "owner": "datamechanics",
                 "repo": "delight",
-                "stars": 344
+                "stars": 344,
+                "topics": [
+                  "apache-spark",
+                  "cpu",
+                  "dashboard",
+                  "delight",
+                  "kubernetes",
+                  "memory",
+                  "monitoring",
+                  "netapp-public",
+                  "spark",
+                  "spark-history-server",
+                  "spark-ui"
+                ]
               },
               "first_seen": "2026-08-29T00:05:56.588Z"
             }
@@ -649,12 +1074,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":truck: Agile Data Preparation Workflows made easy with Pandas, Dask, cuDF, Dask-cuDF, Vaex and PySpark",
+                "homepage": "https://hi-optimus.com",
                 "id": 97071697,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-12-02T14:09:25Z",
+                "open_issues": 30,
                 "owner": "hi-primus",
                 "repo": "optimus",
-                "stars": 1536
+                "stars": 1536,
+                "topics": [
+                  "big-data-cleaning",
+                  "bigdata",
+                  "cudf",
+                  "dask",
+                  "dask-cudf",
+                  "data-analysis",
+                  "data-cleaner",
+                  "data-cleaning",
+                  "data-cleansing",
+                  "data-exploration",
+                  "data-extraction",
+                  "data-preparation",
+                  "data-profiling",
+                  "data-science",
+                  "data-transformation",
+                  "data-wrangling",
+                  "machine-learning",
+                  "pyspark",
+                  "spark"
+                ]
               },
               "first_seen": "2026-08-29T00:05:56.588Z"
             },
@@ -665,12 +1115,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A command-line tool for launching Apache Spark clusters.",
+                "homepage": null,
                 "id": 36854444,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-12-13T22:54:21Z",
+                "open_issues": 41,
                 "owner": "nchammas",
                 "repo": "flintrock",
-                "stars": 650
+                "stars": 650,
+                "topics": [
+                  "apache-spark",
+                  "apache-spark-cluster",
+                  "ec2",
+                  "orchestration",
+                  "spark-ec2"
+                ]
               },
               "first_seen": "2026-08-29T00:05:56.588Z"
             },
@@ -681,12 +1142,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Helpers & syntactic sugar for PySpark. ",
+                "homepage": null,
                 "id": 70260962,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-12-04T16:25:09Z",
+                "open_issues": 6,
                 "owner": "tubular",
                 "repo": "sparkly",
-                "stars": 62
+                "stars": 62,
+                "topics": [
+                  "pyspark",
+                  "python",
+                  "spark"
+                ]
               },
               "first_seen": "2026-08-29T00:05:56.588Z"
             }
@@ -704,12 +1174,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "State of the Art Natural Language Processing",
+                "homepage": "https://sparknlp.org/",
                 "id": 104670986,
                 "language": "Scala",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T16:16:26Z",
+                "open_issues": 29,
                 "owner": "JohnSnowLabs",
                 "repo": "spark-nlp",
-                "stars": 4159
+                "stars": 4159,
+                "topics": [
+                  "bert",
+                  "entity-extraction",
+                  "language-detection",
+                  "lemmatizer",
+                  "llamacpp",
+                  "llm",
+                  "machine-translation",
+                  "named-entity-recognition",
+                  "natural-language-processing",
+                  "nlp",
+                  "onnx",
+                  "part-of-speech-tagger",
+                  "pyspark",
+                  "question-answering",
+                  "sentiment-analysis",
+                  "spark",
+                  "spell-checker",
+                  "tensorflow",
+                  "text-classification",
+                  "transformers"
+                ]
               },
               "first_seen": "2026-08-29T00:05:56.588Z"
             }
@@ -727,12 +1223,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Koalas: pandas API on Apache Spark",
+                "homepage": null,
                 "id": 164026325,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-03-20T15:33:34Z",
+                "open_issues": 108,
                 "owner": "databricks",
                 "repo": "koalas",
-                "stars": 3373
+                "stars": 3373,
+                "topics": [
+                  "big-data",
+                  "data-science",
+                  "dataframe",
+                  "mlflow",
+                  "pandas",
+                  "pydata",
+                  "spark"
+                ]
               },
               "first_seen": "2026-08-29T00:05:56.588Z"
             }
@@ -750,12 +1259,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deequ is a library built on top of Apache Spark for defining \"unit tests for data\", which measure data quality in large datasets.",
+                "homepage": null,
                 "id": 143925946,
                 "language": "Scala",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-21T17:55:47Z",
+                "open_issues": 68,
                 "owner": "awslabs",
                 "repo": "deequ",
-                "stars": 3642
+                "stars": 3642,
+                "topics": [
+                  "dataquality",
+                  "scala",
+                  "spark",
+                  "unit-testing"
+                ]
               },
               "first_seen": "2026-08-29T00:05:56.588Z"
             },
@@ -766,12 +1285,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python API for Deequ",
+                "homepage": null,
                 "id": 311469500,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-21T17:56:04Z",
+                "open_issues": 95,
                 "owner": "awslabs",
                 "repo": "python-deequ",
-                "stars": 826
+                "stars": 826,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:05:56.588Z"
             }
@@ -789,12 +1313,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Base classes to use when writing tests with Spark",
+                "homepage": null,
                 "id": 30093433,
                 "language": "Scala",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T05:05:21Z",
+                "open_issues": 97,
                 "owner": "holdenk",
                 "repo": "spark-testing-base",
-                "stars": 1555
+                "stars": 1555,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:05:56.588Z"
             },
@@ -805,12 +1334,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PySpark test helper methods with beautiful error messages",
+                "homepage": "https://mrpowers.github.io/chispa/",
                 "id": 176548161,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-20T16:25:09Z",
+                "open_issues": 38,
                 "owner": "MrPowers",
                 "repo": "chispa",
-                "stars": 773
+                "stars": 773,
+                "topics": [
+                  "pyspark",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-29T00:05:56.588Z"
             },
@@ -821,12 +1358,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Apache Spark testing helpers (dependency free & works with Scalatest, uTest, and MUnit)",
+                "homepage": "https://mrpowers-io.github.io/spark-fast-tests/",
                 "id": 87477549,
                 "language": "Scala",
+                "license": "MIT",
                 "last_commit": "2026-04-02T01:42:37Z",
+                "open_issues": 22,
                 "owner": "mrpowers-io",
                 "repo": "spark-fast-tests",
-                "stars": 457
+                "stars": 457,
+                "topics": [
+                  "spark",
+                  "testing-framework"
+                ]
               },
               "first_seen": "2026-08-29T00:05:56.588Z"
             }
@@ -844,12 +1389,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Archives Unleashed Toolkit is an open-source toolkit for analyzing web archives.",
+                "homepage": "https://aut.docs.archivesunleashed.org/",
                 "id": 96417459,
                 "language": "Scala",
+                "license": "Apache-2.0",
                 "last_commit": "2025-12-05T02:26:14Z",
+                "open_issues": 5,
                 "owner": "archivesunleashed",
                 "repo": "aut",
-                "stars": 158
+                "stars": 158,
+                "topics": [
+                  "analysis",
+                  "apache-spark",
+                  "big-data",
+                  "big-data-analytics",
+                  "dataframe",
+                  "digital-humanities",
+                  "hadoop",
+                  "network-graphing",
+                  "pyspark",
+                  "python3",
+                  "scala",
+                  "spark",
+                  "text-extraction",
+                  "webarchives"
+                ]
               },
               "first_seen": "2026-08-29T00:05:56.588Z"
             }
@@ -867,12 +1432,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments",
+                "homepage": "http://cromwell.readthedocs.io/",
                 "id": 34136406,
                 "language": "Scala",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-04T14:32:07Z",
+                "open_issues": 813,
                 "owner": "broadinstitute",
                 "repo": "cromwell",
-                "stars": 1080
+                "stars": 1080,
+                "topics": [
+                  "application",
+                  "bioinformatics",
+                  "cloud",
+                  "containers",
+                  "docker",
+                  "executor",
+                  "ga4gh",
+                  "hpc",
+                  "scala",
+                  "wdl",
+                  "workflow",
+                  "workflow-description-language",
+                  "workflow-execution"
+                ]
               },
               "first_seen": "2026-08-29T00:05:56.588Z"
             }
@@ -896,12 +1480,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code to accompany Advanced Analytics with Spark from O'Reilly Media",
+                "homepage": null,
                 "id": 26376639,
                 "language": "Scala",
+                "license": "NOASSERTION",
                 "last_commit": "2024-09-25T14:40:05Z",
+                "open_issues": 4,
                 "owner": "sryza",
                 "repo": "aas",
-                "stars": 1525
+                "stars": 1525,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:05:56.588Z"
             },
@@ -912,12 +1501,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The book's repo",
+                "homepage": "https://www.manning.com/books/spark-in-action",
                 "id": 32838969,
                 "language": "Scala",
+                "license": null,
                 "last_commit": "2017-07-01T14:35:42Z",
+                "open_issues": 4,
                 "owner": "spark-in-action",
                 "repo": "first-edition",
-                "stars": 270
+                "stars": 270,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:05:56.588Z"
             }
@@ -935,12 +1529,26 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Oryx 2: Lambda architecture on Apache Spark, Apache Kafka for real-time large scale machine learning",
+                "homepage": "http://oryx.io",
                 "id": 22269384,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2021-08-16T11:16:27Z",
+                "open_issues": 1,
                 "owner": "OryxProject",
                 "repo": "oryx",
-                "stars": 1782
+                "stars": 1782,
+                "topics": [
+                  "apache-kafka",
+                  "apache-spark",
+                  "cloudera",
+                  "java",
+                  "kafka",
+                  "lambda-architecture",
+                  "machine-learning",
+                  "oryx"
+                ]
               },
               "first_seen": "2026-08-29T00:05:56.588Z"
             },
@@ -951,12 +1559,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A scalable machine learning library on Apache Spark",
+                "homepage": null,
                 "id": 50964104,
                 "language": "Terra",
+                "license": "NOASSERTION",
                 "last_commit": "2021-08-30T17:36:25Z",
+                "open_issues": 27,
                 "owner": "linkedin",
                 "repo": "photon-ml",
-                "stars": 797
+                "stars": 797,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:05:56.588Z"
             },
@@ -967,12 +1580,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "DISCONTINUED - Easy access to big things. Library for Apache Spark extending and improving its capabilities",
+                "homepage": "https://stratio.atlassian.net/wiki/display/PLATFORM/STRATIO+CROSSDATA",
                 "id": 16574627,
                 "language": "Scala",
+                "license": "Apache-2.0",
                 "last_commit": "2019-11-20T08:28:20Z",
+                "open_issues": 8,
                 "owner": "Stratio",
                 "repo": "crossdata",
-                "stars": 168
+                "stars": 168,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:05:56.588Z"
             }
@@ -990,12 +1608,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ready-to-run Docker images containing Jupyter applications",
+                "homepage": "https://jupyter-docker-stacks.readthedocs.io",
                 "id": 39144867,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-24T11:05:23Z",
+                "open_issues": 8,
                 "owner": "jupyter",
                 "repo": "docker-stacks",
-                "stars": 8461
+                "stars": 8461,
+                "topics": [
+                  "docker",
+                  "ipython",
+                  "ipython-notebook",
+                  "jupyter",
+                  "jupyter-notebook",
+                  "jupyter-notebooks",
+                  "jupyterhub",
+                  "jupyterlab",
+                  "notebook",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-29T00:05:56.588Z"
             },
@@ -1006,12 +1640,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 21741862,
                 "language": "Shell",
+                "license": "Apache-2.0",
                 "last_commit": "2021-03-11T10:00:45Z",
+                "open_issues": 27,
                 "owner": "sequenceiq",
                 "repo": "docker-spark",
-                "stars": 757
+                "stars": 757,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:05:56.588Z"
             }
@@ -1025,15 +1664,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:05:56.588Z",
+    "last_updated": "2026-08-29T04:27:15.476Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome Apache Spark packages and resources.",
+      "homepage": null,
       "id": 50860011,
       "language": "Shell",
+      "license": "CC0-1.0",
       "last_commit": "2026-02-27T08:06:58Z",
+      "open_issues": 24,
       "owner": "awesome-spark",
       "repo": "awesome-spark",
-      "stars": 1893
+      "stars": 1893,
+      "topics": [
+        "apache-spark",
+        "awesome",
+        "pyspark",
+        "sparkr"
+      ]
     },
     "original_repository_sha": "829b48e14fd4b0b01167a651a4b5791ac9fac8ed",
     "enhanced_repository": "enhansome/enhansome-spark",
