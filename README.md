@@ -12,11 +12,11 @@ Users of Apache Spark may choose between different the Python, R, Scala and Java
 
 ### Language Bindings
 
-* [.NET for Apache Spark](https://github.com/dotnet/spark) ⭐ 2,096 | 🐛 212 | 🌐 C# | 📅 2026-09-16 <img src="https://img.shields.io/github/last-commit/dotnet/spark.svg"> - .NET bindings.
+* [.NET for Apache Spark](https://github.com/dotnet/spark) ⭐ 2,096 | 🐛 212 | 🌐 C# | 📅 2026-09-17 <img src="https://img.shields.io/github/last-commit/dotnet/spark.svg"> - .NET bindings.
 * [sparklyr](https://github.com/rstudio/sparklyr) ⭐ 971 | 🐛 358 | 🌐 R | 📅 2026-07-02 <img src="https://img.shields.io/github/last-commit/rstudio/sparklyr.svg"> - An alternative R backend, using [`dplyr`](https://github.com/hadley/dplyr) ⭐ 5,067 | 🐛 94 | 🌐 R | 📅 2026-06-02.
 * [Kotlin for Apache Spark](https://github.com/Kotlin/kotlin-spark-api) ⭐ 481 | 🐛 19 | 🌐 Kotlin | 📅 2026-06-18 <img src="https://img.shields.io/github/last-commit/Kotlin/kotlin-spark-api.svg"> - Kotlin API bindings and extensions.
 * [sparkle](https://github.com/tweag/sparkle) ⭐ 449 | 🐛 16 | 🌐 Haskell | 📅 2025-07-30 <img src="https://img.shields.io/github/last-commit/tweag/sparkle.svg"> - Haskell on Apache Spark.
-* [spark-connect-go](https://github.com/apache/spark-connect-go) ⭐ 252 | 🐛 26 | 🌐 Go | 📅 2026-05-15 <img src="https://img.shields.io/github/last-commit/apache/spark-connect-go.svg"> - Golang bindings.
+* [spark-connect-go](https://github.com/apache/spark-connect-go) ⭐ 251 | 🐛 26 | 🌐 Go | 📅 2026-05-15 <img src="https://img.shields.io/github/last-commit/apache/spark-connect-go.svg"> - Golang bindings.
 * [spark-connect-rs](https://github.com/sjrusso8/spark-connect-rs) ⭐ 116 | 🐛 11 | 🌐 Rust | 📅 2025-06-10 <img src="https://img.shields.io/github/last-commit/sjrusso8/spark-connect-rs.svg"> - Rust bindings.
 * [spark-connect-csharp](https://github.com/mdrakiburrahman/spark-connect-csharp) ⭐ 2 | 🐛 1 | 🌐 C# | 📅 2024-04-23 <img src="https://img.shields.io/github/last-commit/mdrakiburrahman/spark-connect-csharp.svg"> - C# bindings.
 
@@ -31,7 +31,7 @@ Users of Apache Spark may choose between different the Python, R, Scala and Java
 
 * [spark-daria](https://github.com/mrpowers-io/spark-daria) ⭐ 767 | 🐛 18 | 🌐 Scala | 📅 2026-06-22 <img src="https://img.shields.io/github/last-commit/mrpowers-io/spark-daria.svg"> - A Scala library with essential Spark functions and extensions to make you more productive.
 * [quinn](https://github.com/mrpowers-io/quinn) ⭐ 689 | 🐛 25 | 🌐 Python | 📅 2026-06-09 <img src="https://img.shields.io/github/last-commit/mrpowers-io/quinn.svg"> - A native PySpark implementation of spark-daria.
-* [Joblib Apache Spark Backend](https://github.com/joblib/joblib-spark) ⭐ 248 | 🐛 20 | 🌐 Python | 📅 2026-03-24 <img src="https://img.shields.io/github/last-commit/joblib/joblib-spark.svg"> - [`joblib`](https://github.com/joblib/joblib) ⭐ 4,394 | 🐛 437 | 🌐 Python | 📅 2026-09-15 backend for running tasks on Spark clusters.
+* [Joblib Apache Spark Backend](https://github.com/joblib/joblib-spark) ⭐ 248 | 🐛 20 | 🌐 Python | 📅 2026-03-24 <img src="https://img.shields.io/github/last-commit/joblib/joblib-spark.svg"> - [`joblib`](https://github.com/joblib/joblib) ⭐ 4,394 | 🐛 436 | 🌐 Python | 📅 2026-09-15 backend for running tasks on Spark clusters.
 * [Apache DataFu](https://github.com/apache/datafu/tree/master/datafu-spark) ⭐ 124 | 🐛 4 | 🌐 Java | 📅 2026-07-09 <img src="https://img.shields.io/github/last-commit/apache/datafu.svg"> - A library of general purpose functions and UDF's.
 * [itachi](https://github.com/yaooqinn/itachi) ⭐ 63 | 🐛 1 | 🌐 Scala | 📅 2023-09-04 <img src="https://img.shields.io/github/last-commit/yaooqinn/itachi.svg"> - A library that brings useful functions from modern database management systems to Apache Spark.
 
@@ -45,30 +45,30 @@ SparkSQL has [serveral built-in Data Sources](https://spark.apache.org/docs/late
 
 ### Storage
 
-* [Apache Iceberg](https://github.com/apache/iceberg) ⭐ 9,242 | 🐛 931 | 🌐 Java | 📅 2026-09-16 <img src="https://img.shields.io/github/last-commit/apache/iceberg.svg"> - Upserts, Deletes And Incremental Processing on Big Data..
-* [Delta Lake](https://github.com/delta-io/delta) ⭐ 8,996 | 🐛 952 | 🌐 Scala | 📅 2026-09-16 <img src="https://img.shields.io/github/last-commit/delta-io/delta.svg"> - Storage layer with ACID transactions.
-* [Apache Hudi](https://github.com/apache/hudi) ⭐ 6,249 | 🐛 2,883 | 🌐 Java | 📅 2026-09-16 <img src="https://img.shields.io/github/last-commit/apache/hudi.svg"> - Upserts, Deletes And Incremental Processing on Big Data..
+* [Apache Iceberg](https://github.com/apache/iceberg) ⭐ 9,246 | 🐛 921 | 🌐 Java | 📅 2026-09-17 <img src="https://img.shields.io/github/last-commit/apache/iceberg.svg"> - Upserts, Deletes And Incremental Processing on Big Data..
+* [Delta Lake](https://github.com/delta-io/delta) ⭐ 8,999 | 🐛 956 | 🌐 Scala | 📅 2026-09-17 <img src="https://img.shields.io/github/last-commit/delta-io/delta.svg"> - Storage layer with ACID transactions.
+* [Apache Hudi](https://github.com/apache/hudi) ⭐ 6,253 | 🐛 2,882 | 🌐 Java | 📅 2026-09-17 <img src="https://img.shields.io/github/last-commit/apache/hudi.svg"> - Upserts, Deletes And Incremental Processing on Big Data..
 * [lakeFS](https://docs.lakefs.io/integrations/spark.html) <img src="https://img.shields.io/github/last-commit/treeverse/lakefs.svg"> - Integration with the lakeFS atomic versioned storage layer.
 
 ### Bioinformatics
 
-* [Hail](https://github.com/hail-is/hail) ⭐ 1,072 | 🐛 364 | 🌐 Python | 📅 2026-09-15 <img src="https://img.shields.io/github/last-commit/hail-is/hail.svg"> - Genetic analysis framework.
+* [Hail](https://github.com/hail-is/hail) ⭐ 1,072 | 🐛 369 | 🌐 Python | 📅 2026-09-16 <img src="https://img.shields.io/github/last-commit/hail-is/hail.svg"> - Genetic analysis framework.
 * [ADAM](https://github.com/bigdatagenomics/adam) ⭐ 1,059 | 🐛 43 | 🌐 Scala | 📅 2026-03-17 <img src="https://img.shields.io/github/last-commit/bigdatagenomics/adam.svg"> - Set of tools designed to analyse genomics data.
 
 ### GIS
 
-* [Apache Sedona](https://github.com/apache/incubator-sedona) ⭐ 2,409 | 🐛 90 | 🌐 Java | 📅 2026-09-15 <img src="https://img.shields.io/github/last-commit/apache/incubator-sedona.svg"> - Cluster computing system for processing large-scale spatial data.
+* [Apache Sedona](https://github.com/apache/incubator-sedona) ⭐ 2,409 | 🐛 89 | 🌐 Java | 📅 2026-09-17 <img src="https://img.shields.io/github/last-commit/apache/incubator-sedona.svg"> - Cluster computing system for processing large-scale spatial data.
 
 ### Graph Processing
 
-* [GraphFrames](https://github.com/graphframes/graphframes) ⭐ 1,207 | 🐛 45 | 🌐 Scala | 📅 2026-09-15 <img src="https://img.shields.io/github/last-commit/graphframes/graphframes.svg"> - Data frame based graph API.
-* [neo4j-spark-connector](https://github.com/neo4j-contrib/neo4j-spark-connector) ⭐ 324 | 🐛 9 | 🌐 Scala | 📅 2026-09-16 <img src="https://img.shields.io/github/last-commit/neo4j-contrib/neo4j-spark-connector.svg"> - Bolt protocol based, Neo4j Connector with RDD, DataFrame and GraphX / GraphFrames support.
+* [GraphFrames](https://github.com/graphframes/graphframes) ⭐ 1,207 | 🐛 46 | 🌐 Scala | 📅 2026-09-15 <img src="https://img.shields.io/github/last-commit/graphframes/graphframes.svg"> - Data frame based graph API.
+* [neo4j-spark-connector](https://github.com/neo4j-contrib/neo4j-spark-connector) ⭐ 324 | 🐛 8 | 🌐 Scala | 📅 2026-09-17 <img src="https://img.shields.io/github/last-commit/neo4j-contrib/neo4j-spark-connector.svg"> - Bolt protocol based, Neo4j Connector with RDD, DataFrame and GraphX / GraphFrames support.
 
 ### Machine Learning Extension
 
-* [ModelDB](https://mitdbg.github.io/modeldb) <img src="https://img.shields.io/github/last-commit/mitdbg/modeldb.svg"> - A system to manage machine learning models for `spark.ml` and [`scikit-learn`](https://github.com/scikit-learn/scikit-learn) ⭐ 67,275 | 🐛 2,159 | 🌐 Python | 📅 2026-09-16 <img src="https://img.shields.io/github/last-commit/scikit-learn/scikit-learn.svg">.
+* [ModelDB](https://mitdbg.github.io/modeldb) <img src="https://img.shields.io/github/last-commit/mitdbg/modeldb.svg"> - A system to manage machine learning models for `spark.ml` and [`scikit-learn`](https://github.com/scikit-learn/scikit-learn) ⭐ 67,283 | 🐛 2,159 | 🌐 Python | 📅 2026-09-17 <img src="https://img.shields.io/github/last-commit/scikit-learn/scikit-learn.svg">.
 * [BigDL](https://github.com/intel-analytics/BigDL) ⚠️ Archived <img src="https://img.shields.io/github/last-commit/intel-analytics/BigDL.svg"> - Distributed Deep Learning library.
-* [Microsoft ML for Apache Spark](https://github.com/Azure/mmlspark) ⭐ 5,247 | 🐛 147 | 🌐 Scala | 📅 2026-09-16 <img src="https://img.shields.io/github/last-commit/Azure/mmlspark.svg"> - A distributed ml library with support for LightGBM, Vowpal Wabbit, OpenCV, Deep Learning, Cognitive Services, and Model Deployment.
+* [Microsoft ML for Apache Spark](https://github.com/Azure/mmlspark) ⭐ 5,247 | 🐛 147 | 🌐 Scala | 📅 2026-09-17 <img src="https://img.shields.io/github/last-commit/Azure/mmlspark.svg"> - A distributed ml library with support for LightGBM, Vowpal Wabbit, OpenCV, Deep Learning, Cognitive Services, and Model Deployment.
 * [MLeap](https://github.com/combust/mleap) ⭐ 1,543 | 🐛 111 | 🌐 Scala | 📅 2026-09-14 <img src="https://img.shields.io/github/last-commit/combust/mleap.svg"> - Execution engine and serialization format which supports deployment of `o.a.s.ml` models without dependency on `SparkSession`.
 * [Sparkling Water](https://github.com/h2oai/sparkling-water) ⭐ 980 | 🐛 43 | 🌐 Scala | 📅 2025-11-05 <img src="https://img.shields.io/github/last-commit/h2oai/sparkling-water.svg"> -  [H2O](http://www.h2o.ai/) interoperability layer.
 * [JPMML-Spark](https://github.com/jpmml/jpmml-spark) ⭐ 99 | 🐛 1 | 🌐 Scala | 📅 2026-08-31 <img src="https://img.shields.io/github/last-commit/jpmml/jpmml-spark.svg"> - PMML transformer library for Spark ML.
@@ -80,9 +80,9 @@ SparkSQL has [serveral built-in Data Sources](https://spark.apache.org/docs/late
 ### Middleware
 
 * [spark-jobserver](https://github.com/spark-jobserver/spark-jobserver) ⭐ 2,836 | 🐛 111 | 🌐 Scala | 📅 2026-03-03 <img src="https://img.shields.io/github/last-commit/spark-jobserver/spark-jobserver.svg"> - Simple Spark as a Service which supports objects sharing using so called named objects. JVM only.
-* [Apache Kyuubi](https://github.com/apache/kyuubi) ⭐ 2,365 | 🐛 539 | 🌐 Scala | 📅 2026-09-14 <img src="https://img.shields.io/github/last-commit/apache/kyuubi.svg"> - A distributed multi-tenant JDBC server for large-scale data processing and analytics, built on top of Apache Spark.
-* [Livy](https://github.com/apache/incubator-livy) ⭐ 963 | 🐛 37 | 🌐 Scala | 📅 2026-09-16 <img src="https://img.shields.io/github/last-commit/apache/incubator-livy.svg"> - REST server with extensive language support (Python, R, Scala), ability to maintain interactive sessions and object sharing.
-* [Apache Toree](https://github.com/apache/incubator-toree) ⭐ 752 | 🐛 14 | 🌐 Scala | 📅 2026-09-16 <img src="https://img.shields.io/github/last-commit/apache/incubator-toree.svg"> - IPython protocol based middleware for interactive applications.
+* [Apache Kyuubi](https://github.com/apache/kyuubi) ⭐ 2,365 | 🐛 540 | 🌐 Scala | 📅 2026-09-17 <img src="https://img.shields.io/github/last-commit/apache/kyuubi.svg"> - A distributed multi-tenant JDBC server for large-scale data processing and analytics, built on top of Apache Spark.
+* [Livy](https://github.com/apache/incubator-livy) ⭐ 963 | 🐛 43 | 🌐 Scala | 📅 2026-09-16 <img src="https://img.shields.io/github/last-commit/apache/incubator-livy.svg"> - REST server with extensive language support (Python, R, Scala), ability to maintain interactive sessions and object sharing.
+* [Apache Toree](https://github.com/apache/incubator-toree) ⭐ 752 | 🐛 15 | 🌐 Scala | 📅 2026-09-16 <img src="https://img.shields.io/github/last-commit/apache/incubator-toree.svg"> - IPython protocol based middleware for interactive applications.
 
 ### Monitoring
 
@@ -90,13 +90,13 @@ SparkSQL has [serveral built-in Data Sources](https://spark.apache.org/docs/late
 
 ### Utilities
 
-* [Optimus](https://github.com/ironmussa/Optimus/) ⭐ 1,535 | 🐛 30 | 🌐 Python | 📅 2024-12-02 <img src="https://img.shields.io/github/last-commit/ironmussa/Optimus.svg"> - Data Cleansing and Exploration utilities with the goal of simplifying data cleaning.
+* [Optimus](https://github.com/ironmussa/Optimus/) ⭐ 1,536 | 🐛 30 | 🌐 Python | 📅 2024-12-02 <img src="https://img.shields.io/github/last-commit/ironmussa/Optimus.svg"> - Data Cleansing and Exploration utilities with the goal of simplifying data cleaning.
 * [Flintrock](https://github.com/nchammas/flintrock) ⭐ 649 | 🐛 41 | 🌐 Python | 📅 2024-12-13 <img src="https://img.shields.io/github/last-commit/nchammas/flintrock.svg"> - A command-line tool for launching Spark clusters on EC2.
 * [sparkly](https://github.com/Tubular/sparkly) ⭐ 62 | 🐛 6 | 🌐 Python | 📅 2026-09-11 <img src="https://img.shields.io/github/last-commit/Tubular/sparkly.svg"> - Helpers & syntactic sugar for PySpark.
 
 ### Natural Language Processing
 
-* [spark-nlp](https://github.com/JohnSnowLabs/spark-nlp) ⭐ 4,159 | 🐛 34 | 🌐 Scala | 📅 2026-09-12 <img src="https://img.shields.io/github/last-commit/JohnSnowLabs/spark-nlp.svg"> - Natural language processing library built on top of Apache Spark ML.
+* [spark-nlp](https://github.com/JohnSnowLabs/spark-nlp) ⭐ 4,159 | 🐛 34 | 🌐 Scala | 📅 2026-09-17 <img src="https://img.shields.io/github/last-commit/JohnSnowLabs/spark-nlp.svg"> - Natural language processing library built on top of Apache Spark ML.
 
 ### Streaming
 
@@ -115,7 +115,7 @@ SparkSQL has [serveral built-in Data Sources](https://spark.apache.org/docs/late
 ### Testing
 
 * [spark-testing-base](https://github.com/holdenk/spark-testing-base) ⭐ 1,555 | 🐛 99 | 🌐 Scala | 📅 2026-08-31 <img src="https://img.shields.io/github/last-commit/holdenk/spark-testing-base.svg"> - Collection of base test classes.
-* [chispa](https://github.com/MrPowers/chispa) ⭐ 772 | 🐛 37 | 🌐 Python | 📅 2026-09-04 <img src="https://img.shields.io/github/last-commit/MrPowers/chispa.svg"> - PySpark test helpers with beautiful error messages.
+* [chispa](https://github.com/MrPowers/chispa) ⭐ 773 | 🐛 37 | 🌐 Python | 📅 2026-09-04 <img src="https://img.shields.io/github/last-commit/MrPowers/chispa.svg"> - PySpark test helpers with beautiful error messages.
 * [spark-fast-tests](https://github.com/mrpowers-io/spark-fast-tests) ⭐ 457 | 🐛 22 | 🌐 Scala | 📅 2026-04-02 <img src="https://img.shields.io/github/last-commit/mrpowers-io/spark-fast-tests.svg"> - A lightweight and fast testing framework.
 
 ### Web Archives
@@ -124,7 +124,7 @@ SparkSQL has [serveral built-in Data Sources](https://spark.apache.org/docs/late
 
 ### Workflow Management
 
-* [Cromwell](https://github.com/broadinstitute/cromwell#spark-backend) ⭐ 1,082 | 🐛 814 | 🌐 Scala | 📅 2026-09-15 <img src="https://img.shields.io/github/last-commit/broadinstitute/cromwell.svg"> - Workflow management system with [Spark backend](https://github.com/broadinstitute/cromwell#spark-backend) ⭐ 1,082 | 🐛 814 | 🌐 Scala | 📅 2026-09-15.
+* [Cromwell](https://github.com/broadinstitute/cromwell#spark-backend) ⭐ 1,082 | 🐛 815 | 🌐 Scala | 📅 2026-09-15 <img src="https://img.shields.io/github/last-commit/broadinstitute/cromwell.svg"> - Workflow management system with [Spark backend](https://github.com/broadinstitute/cromwell#spark-backend) ⭐ 1,082 | 🐛 815 | 🌐 Scala | 📅 2026-09-15.
 
 ## Resources
 
@@ -160,7 +160,7 @@ SparkSQL has [serveral built-in Data Sources](https://spark.apache.org/docs/late
 
 ### Docker Images
 
-* [jupyter/docker-stacks/pyspark-notebook](https://github.com/jupyter/docker-stacks/tree/master/pyspark-notebook) ⭐ 8,467 | 🐛 14 | 🌐 Python | 📅 2026-09-13 - PySpark with Jupyter Notebook and Mesos client.
+* [jupyter/docker-stacks/pyspark-notebook](https://github.com/jupyter/docker-stacks/tree/master/pyspark-notebook) ⭐ 8,466 | 🐛 14 | 🌐 Python | 📅 2026-09-13 - PySpark with Jupyter Notebook and Mesos client.
 * [sequenceiq/docker-spark](https://github.com/sequenceiq/docker-spark) ⭐ 757 | 🐛 27 | 🌐 Shell | 📅 2021-03-11 - Yarn images from [SequenceIQ](http://www.sequenceiq.com/).
 * [apache/spark](https://hub.docker.com/r/apache/spark) - Apache Spark Official Docker images.
 * [datamechanics/spark](https://hub.docker.com/r/datamechanics/spark) - An easy to setup Docker image for Apache Spark from [Data Mechanics](https://www.datamechanics.co/).
@@ -187,8 +187,8 @@ This work (<span property="dct:title">Awesome Spark</span>, by <a href="https://
 
 Apache Spark, Spark, Apache, and the Spark logo are <a href="https://www.apache.org/foundation/marks/">trademarks</a> of <a href="http://www.apache.org">The Apache Software Foundation</a>. This compilation is not endorsed by The Apache Software Foundation.
 
-Inspired by [sindresorhus/awesome](https://github.com/sindresorhus/awesome) ⭐ 506,695 | 🐛 106 | 📅 2026-09-02.
+Inspired by [sindresorhus/awesome](https://github.com/sindresorhus/awesome) ⭐ 507,109 | 🐛 106 | 📅 2026-09-02.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
