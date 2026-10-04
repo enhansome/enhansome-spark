@@ -398,7 +398,7 @@
                 "open_issues": 27,
                 "owner": "apache",
                 "repo": "cassandra-spark-connector",
-                "stars": 1957,
+                "stars": 1956,
                 "topics": [
                   "cassandra",
                   "scala",
@@ -474,11 +474,11 @@
                 "id": 158256479,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T23:38:28Z",
-                "open_issues": 922,
+                "last_commit": "2026-10-04T16:54:55Z",
+                "open_issues": 924,
                 "owner": "apache",
                 "repo": "iceberg",
-                "stars": 9296,
+                "stars": 9298,
                 "topics": [
                   "apache",
                   "hacktoberfest",
@@ -526,8 +526,8 @@
                 "id": 76474200,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-03T04:47:42Z",
-                "open_issues": 2966,
+                "last_commit": "2026-10-04T06:09:30Z",
+                "open_issues": 2971,
                 "owner": "apache",
                 "repo": "hudi",
                 "stars": 6281,
@@ -637,7 +637,7 @@
                 "open_issues": 84,
                 "owner": "apache",
                 "repo": "sedona",
-                "stars": 2415,
+                "stars": 2416,
                 "topics": [
                   "cluster-computing",
                   "geospatial",
@@ -743,10 +743,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-10-03T14:29:24Z",
-                "open_issues": 2162,
+                "open_issues": 2163,
                 "owner": "scikit-learn",
                 "repo": "scikit-learn",
-                "stars": 67463,
+                "stars": 67471,
                 "topics": [
                   "data-analysis",
                   "data-science",
@@ -773,7 +773,7 @@
                 "open_issues": 1485,
                 "owner": "intel",
                 "repo": "ipex-llm",
-                "stars": 8851,
+                "stars": 8850,
                 "topics": [
                   "gpu",
                   "llm",
@@ -796,10 +796,10 @@
                 "language": "Scala",
                 "license": "MIT",
                 "last_commit": "2026-10-01T23:25:59Z",
-                "open_issues": 140,
+                "open_issues": 141,
                 "owner": "microsoft",
                 "repo": "SynapseML",
-                "stars": 5246,
+                "stars": 5248,
                 "topics": [
                   "ai",
                   "apache-spark",
@@ -987,7 +987,7 @@
                 "open_issues": 40,
                 "owner": "apache",
                 "repo": "livy",
-                "stars": 963,
+                "stars": 962,
                 "topics": [
                   "apachelivy",
                   "bigdata",
@@ -1489,7 +1489,7 @@
                 "open_issues": 4,
                 "owner": "sryza",
                 "repo": "aas",
-                "stars": 1527,
+                "stars": 1526,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:56.588Z"
@@ -1538,7 +1538,7 @@
                 "open_issues": 1,
                 "owner": "OryxProject",
                 "repo": "oryx",
-                "stars": 1784,
+                "stars": 1783,
                 "topics": [
                   "apache-kafka",
                   "apache-spark",
@@ -1613,8 +1613,8 @@
                 "id": 39144867,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-29T08:12:08Z",
-                "open_issues": 10,
+                "last_commit": "2026-10-04T16:32:23Z",
+                "open_issues": 11,
                 "owner": "jupyter",
                 "repo": "docker-stacks",
                 "stars": 8468,
@@ -1664,7 +1664,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T18:49:37.685Z",
+    "last_updated": "2026-10-04T18:47:18.922Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Apache Spark packages and resources.",
